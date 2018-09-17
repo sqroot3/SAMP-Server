@@ -1,0 +1,3082 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:54:48] 
+[22:54:48] Server Plugins
+[22:54:48] --------------
+[22:54:48]  Loaded 0 plugins.
+
+[22:54:48] 
+[22:54:48] Filterscripts
+[22:54:48] ---------------
+[22:54:48]   Loading filterscript 'base.amx'...
+[22:54:48] 
+--Base FS loaded.
+
+[22:54:48]   Loading filterscript 'gl_actions.amx'...
+[22:54:48]   Loading filterscript 'gl_property.amx'...
+[22:54:48] 
+-----------------------------------
+[22:54:48] Grand Larceny Property Filterscript		
+[22:54:48] -----------------------------------
+
+[22:54:48]   Loading filterscript 'gl_realtime.amx'...
+[22:54:48]   Loaded 4 filterscripts.
+
+[22:54:48] Loaded 3 vehicles from: vehicles/trains.txt
+[22:54:48] Loaded 3 vehicles from: vehicles/pilots.txt
+[22:54:48] Loaded 15 vehicles from: vehicles/lv_law.txt
+[22:54:48] Loaded 39 vehicles from: vehicles/lv_airport.txt
+[22:54:48] Loaded 255 vehicles from: vehicles/lv_gen.txt
+[22:54:48] Loaded 38 vehicles from: vehicles/sf_law.txt
+[22:54:48] Loaded 35 vehicles from: vehicles/sf_airport.txt
+[22:54:48] Loaded 353 vehicles from: vehicles/sf_gen.txt
+[22:54:48] Loaded 24 vehicles from: vehicles/ls_law.txt
+[22:54:48] Loaded 37 vehicles from: vehicles/ls_airport.txt
+[22:54:48] Loaded 98 vehicles from: vehicles/ls_gen_inner.txt
+[22:54:48] Loaded 389 vehicles from: vehicles/ls_gen_outer.txt
+[22:54:48] Loaded 71 vehicles from: vehicles/whetstone.txt
+[22:54:48] Loaded 168 vehicles from: vehicles/bone.txt
+[22:54:48] Loaded 61 vehicles from: vehicles/flint.txt
+[22:54:48] Loaded 96 vehicles from: vehicles/tierra.txt
+[22:54:48] Loaded 96 vehicles from: vehicles/red_county.txt
+[22:54:48] Total vehicles from files: 1781
+[22:54:48] Reading File: blank
+[22:54:48] Reading File: properties/houses.txt
+[22:54:48] Reading File: properties/businesses.txt
+[22:54:48] Reading File: properties/banks.txt
+[22:54:48] Reading File: properties/police.txt
+[22:54:48] 
+---------------------------------------
+[22:54:48] Running Grand Larceny - by the SA-MP team
+
+[22:54:48] ---------------------------------------
+
+[22:54:48] Number of vehicle models: 173
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:57:07] 
+[22:57:07] Server Plugins
+[22:57:07] --------------
+[22:57:07]  Loaded 0 plugins.
+
+[22:57:07] 
+[22:57:07] Filterscripts
+[22:57:07] ---------------
+[22:57:07]   Loading filterscript 'base.amx'...
+[22:57:07] 
+--Base FS loaded.
+
+[22:57:07]   Loading filterscript 'gl_actions.amx'...
+[22:57:07]   Loading filterscript 'gl_property.amx'...
+[22:57:07] 
+-----------------------------------
+[22:57:07] Grand Larceny Property Filterscript		
+[22:57:07] -----------------------------------
+
+[22:57:07]   Loading filterscript 'gl_realtime.amx'...
+[22:57:07]   Loaded 4 filterscripts.
+
+[22:57:07] Loaded 3 vehicles from: vehicles/trains.txt
+[22:57:07] Loaded 3 vehicles from: vehicles/pilots.txt
+[22:57:07] Loaded 15 vehicles from: vehicles/lv_law.txt
+[22:57:07] Loaded 39 vehicles from: vehicles/lv_airport.txt
+[22:57:07] Loaded 255 vehicles from: vehicles/lv_gen.txt
+[22:57:07] Loaded 38 vehicles from: vehicles/sf_law.txt
+[22:57:07] Loaded 35 vehicles from: vehicles/sf_airport.txt
+[22:57:07] Loaded 353 vehicles from: vehicles/sf_gen.txt
+[22:57:07] Loaded 24 vehicles from: vehicles/ls_law.txt
+[22:57:07] Loaded 37 vehicles from: vehicles/ls_airport.txt
+[22:57:07] Loaded 98 vehicles from: vehicles/ls_gen_inner.txt
+[22:57:07] Loaded 389 vehicles from: vehicles/ls_gen_outer.txt
+[22:57:07] Loaded 71 vehicles from: vehicles/whetstone.txt
+[22:57:07] Loaded 168 vehicles from: vehicles/bone.txt
+[22:57:07] Loaded 61 vehicles from: vehicles/flint.txt
+[22:57:07] Loaded 96 vehicles from: vehicles/tierra.txt
+[22:57:07] Loaded 96 vehicles from: vehicles/red_county.txt
+[22:57:07] Total vehicles from files: 1781
+[22:57:07] Reading File: blank
+[22:57:07] Reading File: properties/houses.txt
+[22:57:07] Reading File: properties/businesses.txt
+[22:57:07] Reading File: properties/banks.txt
+[22:57:07] Reading File: properties/police.txt
+[22:57:07] 
+---------------------------------------
+[22:57:07] Running Grand Larceny - by the SA-MP team
+
+[22:57:07] ---------------------------------------
+
+[22:57:07] Number of vehicle models: 173
+[23:00:02] [connection] 108.50.160.204:57262 requests connection cookie.
+[23:00:03] [connection] incoming connection: 108.50.160.204:57262 id: 0
+[23:00:04] [join] rally3 has joined the server (0:108.50.160.204)
+[23:00:59] [part] rally3 has left the server (0:1)
+[23:04:57] [connection] 108.50.160.204:51624 requests connection cookie.
+[23:04:58] [connection] incoming connection: 108.50.160.204:51624 id: 0
+[23:04:58] [join] rally3 has joined the server (0:108.50.160.204)
+[23:05:48] [connection] 197.0.30.106:65130 requests connection cookie.
+[23:05:49] [connection] incoming connection: 197.0.30.106:65130 id: 1
+[23:05:50] [join] Odeim has joined the server (1:197.0.30.106)
+[23:06:07] [chat] [rally3]: heya
+[23:06:13] [chat] [Odeim]: oii
+[23:06:17] [chat] [rally3]: woo why u got 200 ping
+[23:06:18] [chat] [Odeim]: wow
+[23:06:29] [chat] [Odeim]: because im too far from the server..?
+[23:06:31] [chat] [rally3]: wya
+[23:06:39] [chat] [Odeim]: tunisia
+[23:06:43] [chat] [rally3]: server is in frankfurt
+[23:06:43] [chat] [Odeim]: u can call me a paki
+[23:06:44] [chat] [rally3]: oh ok 
+[23:06:46] [chat] [rally3]: lmao
+[23:06:54] [chat] [Odeim]:  hhh
+[23:06:54] [chat] [rally3]: ahhh thats why u had french as a language
+[23:06:55] [chat] [Odeim]: anyways
+[23:06:58] [chat] [Odeim]:  yeah
+[23:07:02] [chat] [rally3]: lets give it a shot xd
+[23:07:11] [chat] [rally3]: only bought this to get a feel of it
+[23:07:11] [chat] [Odeim]:  where are u now
+[23:07:13] [chat] [rally3]: was $5.23
+[23:07:16] [chat] [rally3]: ls by lspd
+[23:07:25] [chat] [rally3]: nice
+[23:07:34] [chat] [rally3]: my 14 year old self is pissing itself
+[23:07:40] [chat] [rally3]: at the opportunity of having this lmao
+[23:07:45] [chat] [Odeim]:  am happy for u
+[23:07:48] [chat] [Odeim]:  make party
+[23:07:49] [chat] [rally3]: resp
+[23:07:56] [chat] [rally3]: revolution start soon
+[23:07:59] [chat] [Odeim]:  anyways this is for testing
+[23:08:04] [chat] [Odeim]:  big if true
+[23:08:05] [chat] [rally3]: just testing regular shit
+[23:08:12] [chat] [rally3]: not necessarily lsrcr related lul
+[23:08:18] [chat] [rally3]: just will try out my personal shit here
+[23:08:23] [chat] [rally3]: some of it may go to lsrcr
+[23:08:25] [chat] [rally3]: some of it may not
+[23:08:38] [chat] [Odeim]: its your server
+[23:08:43] [chat] [Odeim]: you do whatever u want
+[23:08:49] [chat] [rally3]: and its ~$5 per month as it is
+[23:09:08] [chat] [Odeim]: man i miss these
+[23:09:15] [chat] [rally3]: per year is 60 bucks
+[23:09:21] [chat] [rally3]: which is more than affordable
+[23:09:27] [chat] [rally3]: but it has the 20 player cap
+[23:09:32] [chat] [Odeim]:  yeah well 
+[23:09:34] [chat] [Odeim]: 5 dollars
+[23:09:34] [chat] [rally3]: that can be upgraded tho
+[23:09:39] [chat] [Odeim]: per month is good
+[23:09:43] [chat] [rally3]: ye
+[23:09:47] [chat] [rally3]: besides im just trying out this month so far
+[23:09:55] [chat] [rally3]: main concern is the design
+[23:10:06] [chat] [Odeim]: so the first thing u gonna do
+[23:10:07] [chat] [Odeim]: is what
+[23:10:17] [chat] [rally3]: i'll try to do some implementation of the roof aim thingy
+[23:10:29] [chat] [Odeim]:  oh cool
+[23:10:43] [chat] [rally3]: first i gotta figure out how to pass my gamemode to it tho
+[23:10:47] [chat] [rally3]: its not a vps
+[23:10:50] [chat] [rally3]: but a gameserver
+[23:10:54] [chat] [rally3]: vps' are bloated
+[23:11:20] [chat] [Odeim]:  someone tried to abuse vps before
+[23:11:24] [chat] [Odeim]: by purchasing a server
+[23:11:27] [chat] [Odeim]: for store
+[23:11:30] [chat] [rally3]: x d 
+[23:11:30] [chat] [Odeim]: storage
+[23:11:38] [chat] [rally3]: u can use that though
+[23:11:43] [chat] [rally3]: they have rules on what can and cannot be 
+[23:11:44] [chat] [Odeim]: he abused it
+[23:11:49] [chat] [Odeim]: so he can make more money
+[23:11:49] [chat] [rally3]: wym
+[23:11:54] [chat] [rally3]: oh like a sales platform or sth
+[23:11:57] [chat] [Odeim]:  yeah
+[23:11:59] [chat] [rally3]: ye thats strictly against use lmao
+[23:12:05] [chat] [Odeim]:  i told him its fraud
+[23:12:05] [chat] [rally3]: lets pistol duel
+[23:12:07] [chat] [Odeim]: but he said
+[23:12:09] [chat] [Odeim]: idc
+[23:12:11] [chat] [rally3]: nice
+[23:12:42] [kill] Odeim killed rally3 Colt 45
+[23:12:44] [chat] [rally3]: resp
+[23:12:56] [chat] [Odeim]:  waited for the perfect chance
+[23:12:58] [chat] [rally3]: aight, u can leave if u want now xd
+[23:13:06] [chat] [Odeim]:  wait what
+[23:13:12] [chat] [Odeim]: we aint gonna do some testing
+[23:13:13] [chat] [rally3]: waNted u to have the ip and stuff, i dont have anything specific yet
+[23:13:14] [chat] [Odeim]: feelsbadman
+[23:13:15] [chat] [rally3]: no lmao
+[23:13:18] [chat] [rally3]: this is the default script
+[23:13:20] [chat] [rally3]: they set up
+[23:13:29] [chat] [Odeim]:  wait they set this up
+[23:13:30] [chat] [Odeim]: before
+[23:13:33] [chat] [Odeim]: u purchase it
+[23:13:34] [chat] [Odeim]: niice
+[23:13:35] [chat] [rally3]: ye the gameserver
+[23:13:37] [chat] [rally3]: resp.
+[23:13:42] [chat] [rally3]: CAN GO CAPS IN HEREEE
+[23:13:49] [chat] [Odeim]: WOOOOHOOO
+[23:13:54] [chat] [rally3]: FUCK U NOOB ARREST 
+[23:13:55] [chat] [Odeim]: I CAN RAGE AT PEOPLE NOW
+[23:14:01] [chat] [Odeim]: FUCK U CANT FIGHT NOOB
+[23:14:06] [chat] [Odeim]: 1V1 ME NOOB
+[23:14:07] [chat] [rally3]:  x d
+[23:14:13] [chat] [rally3]: man the map is so serene
+[23:14:19] [chat] [rally3]: without all the shitty bloat on top of it
+[23:14:28] [chat] [Odeim]: it feels
+[23:14:32] [chat] [Odeim]: kinda better
+[23:14:33] [chat] [Odeim]: for me
+[23:14:36] [chat] [rally3]: ye
+[23:14:39] [chat] [Odeim]: to play on this server lmao
+[23:14:44] [chat] [rally3]: well obv some things would need to be changed a bit
+[23:14:46] [chat] [Odeim]: without bases
+[23:14:49] [chat] [rally3]: as far as the map goes
+[23:14:49] [chat] [Odeim]: i mean
+[23:14:51] [chat] [rally3]: like vehs, etc
+[23:14:58] [chat] [rally3]: but it wouldn't be something subject to user change
+[23:15:01] [chat] [rally3]: i can promise u that
+[23:15:11] [chat] [Odeim]: man isnt this
+[23:15:13] [chat] [Odeim]: isis base
+[23:15:16] [chat] [rally3]: yes
+[23:15:19] [chat] [rally3]: look at it
+[23:15:19] [chat] [Odeim]: i forgot this place
+[23:15:21] [chat] [rally3]: so peaceful
+[23:15:30] [chat] [Odeim]:  and holy fuck he took 
+[23:15:35] [chat] [Odeim]: the whole area 
+[23:15:37] [chat] [Odeim]: for his base
+[23:15:37] [chat] [rally3]: yep
+[23:15:43] [chat] [rally3]: why? cause of an overkill of donations
+[23:15:45] [chat] [Odeim]: and its nothing compared to these building
+[23:15:49] [chat] [rally3]: and why? cause of an overkill of services
+[23:15:55] [chat] [rally3]: legit 80 euros
+[23:16:05] [chat] [rally3]: i spent 5 only for the server, and its not a 200 cap
+[23:16:07] [chat] [Odeim]: energ makes money
+[23:16:11] [chat] [rally3]: but atm, a 100 cap makes sense
+[23:16:16] [chat] [Odeim]: more than anyone here lmao
+[23:16:16] [chat] [rally3]: so thats a reduction
+[23:16:24] [chat] [rally3]: also, the hosted tab
+[23:16:27] [chat] [rally3]: isnt necessary
+[23:16:30] [chat] [rally3]: just an extra expense
+[23:16:53] [chat] [rally3]: and teamspeak too
+[23:16:56] [chat] [rally3]: holy shit xd
+[23:16:59] [chat] [rally3]: but apparently
+[23:17:00] [chat] [Odeim]: teamspeak is useless tbh
+[23:17:04] [chat] [Odeim]: i am serious
+[23:17:04] [chat] [rally3]: they run everything from the same vps
+[23:17:13] [chat] [Odeim]: who uses ts these days
+[23:17:13] [chat] [rally3]: thats why they have such an overhaul server and cost
+[23:17:20] [chat] [rally3]: apparently
+[23:17:23] [chat] [Odeim]: delete ts server
+[23:17:31] [chat] [rally3]: resp
+[23:17:32] [chat] [Odeim]: it will cost like 60 euros
+[23:17:35] [chat] [Odeim]: per month
+[23:17:39] [chat] [Odeim]: what else is useless
+[23:17:44] [chat] [rally3]: 200 player cap
+[23:17:46] [chat] [rally3]: hosted tab
+[23:17:47] [chat] [Odeim]: ^^
+[23:17:50] [chat] [rally3]: hosted tab is a huge one
+[23:17:56] [chat] [Odeim]: probably down to 40 dollars
+[23:18:05] [chat] [Odeim]: i mean
+[23:18:06] [chat] [Odeim]: euros
+[23:18:09] [chat] [rally3]: ye
+[23:18:12] [chat] [rally3]: but my point is
+[23:18:16] [chat] [rally3]: even like this, just 20 players
+[23:18:22] [chat] [rally3]: its a $5 euro base line
+[23:18:27] [chat] [rally3]: its a $5* base lien
+[23:18:31] [chat] [rally3]: yes its only 20 players
+[23:18:36] [chat] [rally3]: so not really enjoyable
+[23:18:42] [chat] [rally3]: but we're on 60 at max these days
+[23:18:54] [chat] [rally3]: i havent seen a point of 100 players 
+[23:19:01] [chat] [rally3]: so a 100 cap would be another saving
+[23:19:12] [chat] [Odeim]: idk but
+[23:19:14] [chat] [rally3]: the website/forum is what's taking part of the other money
+[23:19:17] [chat] [rally3]: but that's gotta be there
+[23:19:17] [chat] [Odeim]: 100 cap is not usless
+[23:19:23] [chat] [rally3]: 100 cap is fine
+[23:19:25] [chat] [rally3]: they have 200 rn
+[23:19:29] [chat] [Odeim]: wait what
+[23:19:34] [chat] [Odeim]: lmao
+[23:19:35] [chat] [Odeim]: they do
+[23:19:36] [chat] [rally3]: at least 200 
+[23:19:36] [chat] [Odeim]: wtf
+[23:19:39] [chat] [rally3]: xd
+[23:19:43] [chat] [Odeim]: didnt notice that
+[23:19:47] [chat] [Odeim]: before it was 100
+[23:19:49] [chat] [Odeim]: then 150
+[23:19:58] [chat] [rally3]: i cant blame them honestly
+[23:20:04] [chat] [rally3]: there were times when server count > 100
+[23:20:14] [chat] [rally3]: but i'd say that need stopped being a necessity at least a year ago
+[23:20:26] [chat] [Odeim]: because samp is dead..
+[23:20:27] [chat] [Odeim]: or dying
+[23:20:37] [chat] [Odeim]: nobody plays it anymore
+[23:20:38] [chat] [rally3]: still possible to have a server
+[23:20:42] [chat] [rally3]: and have people play it
+[23:21:01] [chat] [Odeim]: yeah like 12 yo kids
+[23:21:07] [chat] [rally3]: we're playing aren't we
+[23:21:10] [chat] [rally3]:  x d 
+[23:21:25] [chat] [Odeim]: i honestly dont know why i am playing this game lmao
+[23:21:29] [chat] [Odeim]: is it because
+[23:21:34] [chat] [rally3]: nostalgia i guess
+[23:21:45] [chat] [rally3]: i think here is where they put the luxury house nonsense
+[23:21:47] [chat] [rally3]: right
+[23:21:49] [chat] [rally3]: to the left?>
+[23:22:00] [chat] [Odeim]: i forgot
+[23:22:02] [chat] [Odeim]: lmao
+[23:22:06] [chat] [Odeim]: yeah right here
+[23:22:08] [chat] [rally3]: ye its gotta be this one
+[23:22:12] [chat] [rally3]: man what a waste xd
+[23:22:22] [chat] [Odeim]: they want the moneu
+[23:22:36] [chat] [rally3]: i dont think its necessarily them wanting the money
+[23:22:42] [chat] [rally3]: but i think its incompetence
+[23:22:51] [chat] [Odeim]: but its not for them
+[23:22:52] [chat] [rally3]: like having a ts server expense (even if it is used in a vps)
+[23:22:54] [chat] [rally3]: like come on
+[23:22:56] [chat] [Odeim]: u want something cool
+[23:22:57] [chat] [Odeim]: buy it
+[23:23:16] [chat] [rally3]: also u can see this gm has the same vehicle problem
+[23:23:20] [chat] [rally3]: vehs everywhere
+[23:23:24] [chat] [rally3]: very high vehicle density
+[23:23:29] [chat] [Odeim]: yeah
+[23:23:32] [chat] [Odeim]: u want to limit it
+[23:23:36] [chat] [rally3]: ye
+[23:23:39] [chat] [rally3]: severely
+[23:23:39] [chat] [Odeim]: so people
+[23:23:44] [chat] [rally3]: u gotta buy ur own car
+[23:23:45] [chat] [Odeim]: will use taxi driver class
+[23:23:52] [chat] [rally3]: im not even considering a taxi class atm
+[23:23:59] [chat] [rally3]: just the basic gameplay
+[23:24:01] [chat] [Odeim]: and also
+[23:24:03] [chat] [rally3]: whats an incentive
+[23:24:04] [chat] [Odeim]: go to pizza
+[23:24:05] [chat] [rally3]: having ur own car
+[23:24:09] [chat] [rally3]: being able to tune it etc
+[23:24:10] [chat] [Odeim]: u see we got bikes right?
+[23:24:14] [chat] [Odeim]: there
+[23:24:20] [chat] [Odeim]: and we can drive it
+[23:24:23] [chat] [rally3]: ye the food distro nonsense
+[23:24:23] [chat] [Odeim]: buuuuuuuuuuut
+[23:24:25] [chat] [rally3]: xd
+[23:24:31] [chat] [Odeim]: we have the food class
+[23:24:38] [chat] [Odeim]: so this is stupid right
+[23:24:40] [chat] [rally3]: also something i plan on heavily implementing no matter what
+[23:24:43] [chat] [Odeim]: these bikes 
+[23:24:45] [chat] [rally3]: is a modeled economy
+[23:24:48] [chat] [Odeim]: should be for them
+[23:24:48] [chat] [rally3]: taxes, etc
+[23:24:52] [chat] [Odeim]: taxes?
+[23:24:57] [chat] [Odeim]: i see what u doing 
+[23:24:57] [chat] [rally3]: and government buildings generating revenue
+[23:25:07] [chat] [rally3]: player businesses generating revenue
+[23:25:07] [chat] [rally3]: etc
+[23:25:09] [chat] [Odeim]: u want it to be like crazybob server
+[23:25:14] [chat] [rally3]: oh jesus no
+[23:25:14] [chat] [Odeim]: with taxes n shit
+[23:25:20] [chat] [rally3]: thats a blatant rip off of SACNR
+[23:25:22] [chat] [rally3]: no thanks
+[23:25:29] [chat] [Odeim]: i mean its stupid
+[23:25:33] [chat] [Odeim]: for me to earn 300mil
+[23:25:42] [chat] [Odeim]: and then i have to pay 10mil for taxes
+[23:25:50] [chat] [rally3]: nono it wouldn't be autistic like that
+[23:25:56] [chat] [rally3]: needs thought obviously but
+[23:26:02] [chat] [rally3]: idea is it would give money more value
+[23:26:06] [chat] [rally3]: together with cars, etc
+[23:26:22] [chat] [Odeim]: we are going to give it more value by adding stuff to houses
+[23:26:28] [chat] [Odeim]: uhhh wait
+[23:26:31] [chat] [Odeim]: got an idea
+[23:26:35] [chat] [rally3]: go head
+[23:26:35] [chat] [Odeim]: u purchase cars like
+[23:26:40] [chat] [Odeim]: right*?
+[23:26:45] [chat] [rally3]: yes
+[23:26:50] [chat] [Odeim]: how about u able to customize them
+[23:26:52] [chat] [rally3]: man i miss this
+[23:26:53] [chat] [rally3]: ye 
+[23:26:57] [chat] [rally3]: thats something i had planned too
+[23:26:59] [chat] [Odeim]: HOLY FUCK
+[23:27:00] [chat] [rally3]: able to save ur tuning
+[23:27:02] [chat] [Odeim]: MAN THIS PLACE
+[23:27:13] [chat] [Odeim]: i forgot about it
+[23:27:17] [chat] [rally3]: yep
+[23:27:30] [chat] [Odeim]: ok this place
+[23:27:33] [chat] [rally3]: i mean this is a natural truck depot anyway
+[23:27:42] [chat] [Odeim]: so anyways
+[23:27:46] [chat] [rally3]: ye go ahead
+[23:27:49] [chat] [Odeim]: the idea is you buy stuff for your car
+[23:27:53] [chat] [Odeim]: but they're expensive
+[23:27:57] [chat] [Odeim]: like for example nitros
+[23:28:02] [chat] [Odeim]: u want 10x nitros?
+[23:28:06] [chat] [rally3]: ye any customizable, etc
+[23:28:06] [chat] [Odeim]: buy it for 450k
+[23:28:11] [chat] [Odeim]: and save it
+[23:28:15] [chat] [rally3]: the # itself would be modelled as well
+[23:28:25] [chat] [rally3]: so that there's no discrepancies between prices of shit
+[23:28:44] [chat] [Odeim]: yeah thats idea number 1
+[23:28:49] [chat] [Odeim]: what else
+[23:28:54] [chat] [rally3]: well 
+[23:29:04] [chat] [rally3]: player owned businesses and government owned businesses
+[23:29:18] [chat] [rally3]: in other words have more of a clear involvement of what the city's govt is
+[23:29:53] [chat] [rally3]: oh and on houses too
+[23:29:54] [chat] [Odeim]: me no understand
+[23:30:02] [chat] [rally3]: definitely not allow players to "pick" their spot for a house
+[23:30:06] [chat] [Odeim]: by player owned businesses
+[23:30:09] [chat] [rally3]: ok so
+[23:30:16] [chat] [rally3]: its tied to the economy obv
+[23:30:22] [chat] [rally3]: a way to have an investment
+[23:30:26] [chat] [rally3]: people would go buy items there etc
+[23:30:35] [chat] [rally3]: and can work some sidejobs for businesses
+[23:30:49] [chat] [Odeim]: like delievering goods ?
+[23:30:52] [chat] [Odeim]: for that bussiness?
+[23:30:57] [chat] [rally3]: ye minimissions for that business
+[23:31:11] [chat] [rally3]: the longer u work for that business, you may get some discounts, etc in their ietms
+[23:31:30] [chat] [Odeim]: also
+[23:31:41] [chat] [Odeim]: weapons should cost more in ammunation
+[23:31:48] [chat] [rally3]: not just that 
+[23:31:55] [chat] [rally3]: ammu is a govt issued weap provider
+[23:32:00] [chat] [rally3]: so they are the ones with the "bigger" guns
+[23:32:00] [chat] [Odeim]: yeah
+[23:32:04] [chat] [rally3]: at a larger price
+[23:32:10] [chat] [rally3]: independent (illegal) weapons dealers
+[23:32:14] [chat] [rally3]: they carry smaller guns
+[23:32:16] [chat] [rally3]: but at a cheaper price
+[23:32:35] [chat] [Odeim]: yeah good idea
+[23:32:38] [chat] [rally3]: thinking of possibly implementing something about them building the guns they sell
+[23:32:41] [chat] [Odeim]: u dont buy m4 from a weapons dealer
+[23:32:46] [chat] [Odeim]: u buy it from ammu
+[23:32:54] [chat] [Odeim]: sawnoff shotguns does not exist in ammu
+[23:32:56] [chat] [rally3]: but its gotta avoid being this thing of running from checkpoint A to checkpoint B
+[23:33:04] [chat] [rally3]: oh
+[23:33:05] [chat] [rally3]: btw
+[23:33:13] [chat] [rally3]: dual weild weapons - disabled
+[23:33:15] [chat] [rally3]: weild*
+[23:33:19] [chat] [Odeim]: yeah
+[23:33:20] [chat] [rally3]: yield*
+[23:33:20] [chat] [Odeim]: i know
+[23:33:21] [chat] [rally3]: jesus
+[23:33:22] [chat] [rally3]: xd
+[23:33:31] [chat] [Odeim]: wait
+[23:33:38] [chat] [rally3]: or is it wield
+[23:33:38] [chat] [Odeim]: u talking about ur server
+[23:33:41] [chat] [rally3]: i think its wield
+[23:33:43] [chat] [Odeim]: wield*
+[23:33:43] [chat] [rally3]: yes
+[23:33:49] [chat] [rally3]: gg engliush
+[23:34:01] [chat] [Odeim]: u americano my bratha
+[23:34:20] [chat] [rally3]: anyway the topics i have on my brainstorm so far are
+[23:34:21] [chat] [Odeim]:  how cOmE u DoN't KnoW english
+[23:34:33] [chat] [rally3]: business, rob, house, vehicles, chase, kill, death, money, jail, crime
+[23:35:06] [chat] [Odeim]: pls prioritize houses
+[23:35:11] [chat] [Odeim]: then chase
+[23:35:15] [chat] [Odeim]: then bussiness
+[23:35:18] [chat] [rally3]: chase as a gameplay element
+[23:35:23] [chat] [rally3]: and all of these are just elements
+[23:35:33] [chat] [rally3]: their order != priority, but they're all equally important
+[23:35:36] [chat] [rally3]: for  the balance 
+[23:35:50] [chat] [rally3]: also i should mention this is more of a long term project
+[23:35:51] [chat] [Odeim]: u dont did not understand
+[23:35:55] [chat] [Odeim]: we add those stuuf
+[23:36:02] [chat] [Odeim]: like "slowly" for the players
+[23:36:06] [chat] [Odeim]: so they adapt to each one
+[23:36:12] [chat] [rally3]: ur still on about lsrcr
+[23:36:14] [chat] [rally3]: lmao
+[23:36:22] [chat] [rally3]: they can implement the changes they want
+[23:36:22] [chat] [Odeim]:  WAIT WHAT
+[23:36:26] [chat] [rally3]: i wont stop them from doing it
+[23:36:32] [chat] [rally3]: besides i will actually keep sharing them
+[23:36:32] [chat] [Odeim]: u talking about ur server
+[23:36:34] [chat] [rally3]: yes
+[23:36:37] [chat] [Odeim]: oh fuck
+[23:36:41] [chat] [Odeim]: am sorry
+[23:36:43] [chat] [rally3]: lmao xd
+[23:36:47] [chat] [Odeim]: so u want to make your own server
+[23:37:01] [chat] [rally3]: considering that lsrcr is beyond a complete repair
+[23:37:04] [chat] [rally3]: its a good long term project
+[23:37:14] [chat] [rally3]: an estimate rn i have of when some basis could be done
+[23:37:18] [chat] [rally3]: is well
+[23:37:27] [chat] [rally3]: i'd like the design to be close to done at least by december
+[23:37:37] [chat] [Odeim]: nice project
+[23:37:41] [chat] [Odeim]: i support
+[23:37:44] [chat] [Odeim]: u
+[23:37:45] [chat] [rally3]: buttt around that time is when i gotta transfer unis
+[23:37:57] [chat] [rally3]: so theres gonna be a lot of stress, financial aid, etc energy focused on that
+[23:38:01] [chat] [rally3]: so its more of a hobby for now
+[23:38:14] [chat] [Odeim]: u transfer unis
+[23:38:19] [chat] [Odeim]: because the current uni
+[23:38:22] [chat] [Odeim]: sucks or something?
+[23:38:40] [chat] [rally3]: nah, 4 year transfer
+[23:38:41] [chat] [Odeim]:  am just asking if u dont mind lmao
+[23:38:46] [chat] [rally3]: gotta walk my dog rn
+[23:38:47] [chat] [rally3]: lol
+[23:38:54] [chat] [Odeim]:  oof u got a dog
+[23:38:56] [chat] [rally3]: ye
+[23:38:57] [chat] [Odeim]:  big man
+[23:38:59] [chat] [rally3]: german shepherd
+[23:39:00] [chat] [rally3]: resp.
+[23:39:02] [chat] [Odeim]:  ooof
+[23:39:04] [chat] [Odeim]:  respect.
+[23:39:10] [chat] [Odeim]: aight imma leave u now
+[23:39:15] [chat] [rally3]: so ill try to do the whole roof aim thingy
+[23:39:17] [chat] [rally3]: see how it works out
+[23:39:20] [chat] [rally3]: then hit u up
+[23:39:23] [chat] [Odeim]:  yeah
+[23:39:27] [chat] [Odeim]: drop a pm
+[23:39:31] [chat] [rally3]: :thumbsup:
+[23:39:34] [chat] [rally3]: ty, and see ya
+[23:39:41] [chat] [Odeim]: ty goodbye
+[23:39:42] [part] Odeim has left the server (1:1)
+[23:39:42] [part] rally3 has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:03:36] 
+[01:03:36] Server Plugins
+[01:03:36] --------------
+[01:03:36]  Loading plugin: pawncmd.so
+[01:03:36] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[01:03:36]   Loaded.
+[01:03:36]  Loaded 1 plugins.
+
+[01:03:36] 
+[01:03:36] Filterscripts
+[01:03:36] ---------------
+[01:03:36]   Loaded 0 filterscripts.
+
+[01:03:36] 
+----------------------------------
+[01:03:36]  Testing Script by sys_bloat
+[01:03:36] ----------------------------------
+
+[01:03:36] Number of vehicle models: 0
+[01:04:40] [connection] 108.50.160.204:52441 requests connection cookie.
+[01:04:41] [connection] incoming connection: 108.50.160.204:52441 id: 0
+[01:04:41] [join] rally3 has joined the server (0:108.50.160.204)
+[01:05:03] [part] rally3 has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:18:28] 
+[01:18:28] Server Plugins
+[01:18:28] --------------
+[01:18:28]  Loading plugin: pawncmd.so
+[01:18:28] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[01:18:28]   Loaded.
+[01:18:28]  Loading plugin: sscanf.so
+[01:18:28] 
+
+[01:18:28]  ===============================
+
+[01:18:28]       sscanf plugin loaded.     
+
+[01:18:28]          Version:  2.8.2        
+
+[01:18:28]    (c) 2012 Alex "Y_Less" Cole  
+
+[01:18:28]  ===============================
+
+[01:18:28]   Loaded.
+[01:18:28]  Loaded 2 plugins.
+
+[01:18:28] 
+[01:18:28] Filterscripts
+[01:18:28] ---------------
+[01:18:28]   Loaded 0 filterscripts.
+
+[01:18:28] 
+----------------------------------
+[01:18:28]  Testing Script by sys_bloat
+[01:18:28] ----------------------------------
+
+[01:18:28] Number of vehicle models: 0
+[01:18:52] [connection] 108.50.160.204:51349 requests connection cookie.
+[01:18:53] [connection] incoming connection: 108.50.160.204:51349 id: 0
+[01:18:54] [join] rally3 has joined the server (0:108.50.160.204)
+[01:19:16] [part] rally3 has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:21:30] 
+[01:21:30] Server Plugins
+[01:21:30] --------------
+[01:21:30]  Loading plugin: pawncmd.so
+[01:21:30] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[01:21:30]   Loaded.
+[01:21:30]  Loading plugin: sscanf.so
+[01:21:30] 
+
+[01:21:30]  ===============================
+
+[01:21:30]       sscanf plugin loaded.     
+
+[01:21:30]          Version:  2.8.2        
+
+[01:21:30]    (c) 2012 Alex "Y_Less" Cole  
+
+[01:21:30]  ===============================
+
+[01:21:30]   Loaded.
+[01:21:30]  Loaded 2 plugins.
+
+[01:21:30] 
+[01:21:30] Filterscripts
+[01:21:30] ---------------
+[01:21:30]   Loaded 0 filterscripts.
+
+[01:21:30] 
+----------------------------------
+[01:21:30]  Testing Script by sys_bloat
+[01:21:30] ----------------------------------
+
+[01:21:30] Number of vehicle models: 0
+[01:21:59] [connection] 108.50.160.204:51076 requests connection cookie.
+[01:22:00] [connection] incoming connection: 108.50.160.204:51076 id: 0
+[01:22:01] [join] rally3 has joined the server (0:108.50.160.204)
+[01:25:07] [part] rally3 has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[02:53:21] 
+[02:53:21] Server Plugins
+[02:53:21] --------------
+[02:53:21]  Loading plugin: pawncmd.so
+[02:53:21] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[02:53:21]   Loaded.
+[02:53:21]  Loading plugin: sscanf.so
+[02:53:21] 
+
+[02:53:21]  ===============================
+
+[02:53:21]       sscanf plugin loaded.     
+
+[02:53:21]          Version:  2.8.2        
+
+[02:53:21]    (c) 2012 Alex "Y_Less" Cole  
+
+[02:53:21]  ===============================
+
+[02:53:21]   Loaded.
+[02:53:21]  Loaded 2 plugins.
+
+[02:53:21] 
+[02:53:21] Filterscripts
+[02:53:21] ---------------
+[02:53:21]   Loaded 0 filterscripts.
+
+[02:53:21] 
+----------------------------------
+[02:53:21]  Testing Script by sys_bloat
+[02:53:21] ----------------------------------
+
+[02:53:21] Number of vehicle models: 0
+[02:53:54] [connection] 108.50.160.204:51611 requests connection cookie.
+[02:53:55] [connection] incoming connection: 108.50.160.204:51611 id: 0
+[02:53:56] [join] rally3 has joined the server (0:108.50.160.204)
+[02:54:00] [connection] 108.50.160.204:59634 requests connection cookie.
+[02:54:01] [connection] incoming connection: 108.50.160.204:59634 id: 1
+[02:54:02] [join] tester1 has joined the server (1:108.50.160.204)
+[02:56:27] [connection] 156.196.117.66:61114 requests connection cookie.
+[02:56:28] [connection] incoming connection: 156.196.117.66:61114 id: 2
+[02:56:29] [join] [Lsrcr]Quiet has joined the server (2:156.196.117.66)
+[02:56:39] [chat] [[Lsrcr]Quiet]: hi
+[02:56:41] [chat] [rally3]: heya
+[02:56:44] [chat] [rally3]: tester1 is my laptop
+[02:56:48] [chat] [rally3]: so
+[02:56:51] [chat] [[Lsrcr]Quiet]: ye
+[02:56:55] [chat] [rally3]: way it is set up now, u can use 2 commands
+[02:56:57] [chat] [rally3]:  /w for a weapon
+[02:56:59] [chat] [rally3]:  /v for a car
+[02:57:12] [chat] [rally3]: theres two scenarios to car roof shooting
+[02:57:16] [chat] [rally3]: 1) you hit a vehicle
+[02:57:20] [chat] [rally3]: 2) you hit the player driving
+[02:57:28] [chat] [rally3]: lets try #2 first
+[02:57:30] [chat] [[Lsrcr]Quiet]: i see 
+[02:57:40] [chat] [[Lsrcr]Quiet]: lol
+[02:57:44] [chat] [[Lsrcr]Quiet]: weapon id?
+[02:58:07] [chat] [rally3]: do /w 31
+[02:58:09] [chat] [rally3]: thats the m4
+[02:58:13] [chat] [[Lsrcr]Quiet]: *you've shot the vehicle while car suring*
+[02:58:23] [chat] [rally3]: ohh nice
+[02:58:26] [chat] [rally3]: while you're on top?
+[02:58:30] [chat] [[Lsrcr]Quiet]: yes
+[02:58:37] [chat] [rally3]: do u get it there?
+[02:58:43] [chat] [[Lsrcr]Quiet]: No i dont
+[02:58:45] [chat] [rally3]: ok cool
+[02:58:48] [chat] [rally3]: get on
+[02:58:53] [chat] [rally3]: try to hit the laptops car now
+[02:58:55] [chat] [rally3]: a bit
+[02:59:04] [chat] [[Lsrcr]Quiet]: the same message
+[02:59:07] [chat] [rally3]: ah nice
+[02:59:12] [chat] [rally3]: try to bring its hp down
+[02:59:13] [chat] [[Lsrcr]Quiet]: wait lol 
+[02:59:23] [chat] [rally3]: is it not going down xd
+[02:59:25] [chat] [[Lsrcr]Quiet]: who is id 3?
+[02:59:34] [chat] [rally3]: there's no id 3
+[02:59:36] [chat] [[Lsrcr]Quiet]: wtf
+[02:59:36] [chat] [rally3]: why
+[02:59:42] [chat] [[Lsrcr]Quiet]: the message is 
+[02:59:50] [chat] [rally3]: oh nonoo
+[02:59:52] [chat] [[Lsrcr]Quiet]: *you've shot vehhicle id 3 while car surfing*
+[02:59:54] [chat] [rally3]: thats the vehicle id
+[02:59:58] [chat] [rally3]: not player id
+[02:59:59] [chat] [rally3]: use /dk
+[03:00:01] [chat] [rally3]: use /dl
+[03:00:04] [chat] [rally3]: there u can see "id: 3"
+[03:00:07] [chat] [rally3]: on the laptop
+[03:00:07] [chat] [[Lsrcr]Quiet]: oh lmao
+[03:00:10] [chat] [[Lsrcr]Quiet]: okay
+[03:00:11] [chat] [rally3]: but its not taking hp
+[03:00:21] [chat] [rally3]: maybe i have a dm setting turned on and i didnt see
+[03:00:27] [chat] [rally3]: ye
+[03:00:30] [chat] [rally3]: i cant damage u either
+[03:00:35] [chat] [[Lsrcr]Quiet]: ye
+[03:00:41] [chat] [rally3]: well try to see if u get the message
+[03:00:44] [chat] [rally3]: ah
+[03:00:47] [chat] [rally3]: though the other one u wont get
+[03:00:52] [chat] [rally3]: cause it depends on the player taking damage
+[03:00:55] [chat] [rally3]: which they're not nowa
+[03:00:59] [chat] [rally3]: let me debug this
+[03:01:00] [chat] [rally3]: one sec
+[03:01:04] [chat] [[Lsrcr]Quiet]: aight
+[03:01:09] [chat] [tester1]: i can still speak on the lap btw
+[03:01:21] [chat] [[Lsrcr]Quiet]: sure lol
+[03:02:09] [chat] [[Lsrcr]Quiet]: try it while taking damage 
+[03:02:13] [chat] [[Lsrcr]Quiet]: i'm on the ground 
+[03:02:52] [chat] [tester1]: ok think i found the bug
+[03:02:58] [chat] [tester1]: i'll reset the server now
+[03:03:00] [part] tester1 has left the server (1:1)
+[03:03:05] [part] rally3 has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[03:03:45] 
+[03:03:45] Server Plugins
+[03:03:45] --------------
+[03:03:45]  Loading plugin: pawncmd.so
+[03:03:45] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[03:03:45]   Loaded.
+[03:03:45]  Loading plugin: sscanf.so
+[03:03:45] 
+
+[03:03:45]  ===============================
+
+[03:03:45]       sscanf plugin loaded.     
+
+[03:03:45]          Version:  2.8.2        
+
+[03:03:45]    (c) 2012 Alex "Y_Less" Cole  
+
+[03:03:45]  ===============================
+
+[03:03:45]   Loaded.
+[03:03:45]  Loaded 2 plugins.
+
+[03:03:45] 
+[03:03:45] Filterscripts
+[03:03:45] ---------------
+[03:03:45]   Loaded 0 filterscripts.
+
+[03:03:45] 
+----------------------------------
+[03:03:45]  Testing Script by sys_bloat
+[03:03:45] ----------------------------------
+
+[03:03:45] Number of vehicle models: 0
+[03:04:10] [connection] 108.50.160.204:55888 requests connection cookie.
+[03:04:11] [connection] incoming connection: 108.50.160.204:55888 id: 0
+[03:04:11] [join] rally3 has joined the server (0:108.50.160.204)
+[03:04:13] [connection] 108.50.160.204:52185 requests connection cookie.
+[03:04:14] [connection] incoming connection: 108.50.160.204:52185 id: 1
+[03:04:15] [join] tester1 has joined the server (1:108.50.160.204)
+[03:05:11] [connection] 156.196.117.66:65069 requests connection cookie.
+[03:05:12] [connection] incoming connection: 156.196.117.66:65069 id: 2
+[03:05:13] [join] [Lsrcr]Quiet has joined the server (2:156.196.117.66)
+[03:05:24] [chat] [rally3]: now its fixed
+[03:05:26] [chat] [rally3]: but u know what
+[03:05:30] [chat] [rally3]: that fail gave me an idea
+[03:05:33] [chat] [rally3]: on how to handle it xd
+[03:05:40] [chat] [rally3]: lets try the messages haha
+[03:05:48] [chat] [[Lsrcr]Quiet]: sure lol
+[03:05:49] [chat] [rally3]:  /w 31
+[03:06:01] [chat] [rally3]: yep i get the "you were shot by car surfer"
+[03:06:04] [chat] [[Lsrcr]Quiet]: you take a damage and the message appears
+[03:06:07] [chat] [rally3]: yep
+[03:06:11] [chat] [[Lsrcr]Quiet]: but
+[03:06:14] [chat] [rally3]: same for the car again right?
+[03:06:20] [chat] [[Lsrcr]Quiet]: doesn't it has to be no damage for you
+[03:06:23] [chat] [[Lsrcr]Quiet]: if car sufer
+[03:06:30] [chat] [rally3]: nono cause
+[03:06:35] [chat] [rally3]: then if u jump on my roof
+[03:06:37] [chat] [rally3]: say that im a crim
+[03:06:40] [chat] [rally3]: and u a cop
+[03:06:44] [chat] [rally3]: then u supposed to hurt me
+[03:06:57] [chat] [rally3]: there's no team rules here, and there are in the server
+[03:07:08] [chat] [[Lsrcr]Quiet]: what is this for xd
+[03:07:09] [chat] [rally3]: but now after the fail i have an idea on how to handle it
+[03:07:14] [chat] [rally3]: the car roof aim nerf suggestionj
+[03:07:15] [chat] [[Lsrcr]Quiet]: well say it
+[03:07:23] [chat] [rally3]: thats on how to implement it
+[03:07:25] [chat] [rally3]: in the code
+[03:07:29] [chat] [rally3]: the idea is still the same
+[03:07:32] [chat] [rally3]: if i drive fast
+[03:07:37] [chat] [rally3]: anyone on top will have little accuracy
+[03:07:48] [chat] [rally3]: if i drive slow/stay stationary, everyone on top has normal accuracy
+[03:07:54] [chat] [rally3]: its for balance
+[03:08:03] [chat] [[Lsrcr]Quiet]: hmm
+[03:08:10] [chat] [[Lsrcr]Quiet]: lag people wouldn't ever die
+[03:08:20] [chat] [[Lsrcr]Quiet]: its good tho 
+[03:08:22] [chat] [rally3]: u still hit them now tho
+[03:08:32] [chat] [rally3]: so its just a matter of how fast/slow ur driver adjustsa
+[03:08:44] [chat] [rally3]: also, players who g in a car will not be affected too much
+[03:08:50] [chat] [rally3]: well so far not affected at all
+[03:08:55] [chat] [rally3]: so its like
+[03:08:56] [chat] [[Lsrcr]Quiet]: i thought you would disallow jumping on the car lol 
+[03:09:04] [chat] [rally3]: nah cause that's still fun
+[03:09:05] [chat] [[Lsrcr]Quiet]: ye got it
+[03:09:10] [chat] [rally3]: if u g now
+[03:09:18] [chat] [rally3]: and try shooting the car back/the laptop acc
+[03:09:22] [chat] [rally3]: u shouldnt get any message
+[03:09:23] [chat] [rally3]: try it
+[03:09:36] [chat] [rally3]: g 
+[03:09:40] [chat] [rally3]: into a car, then do it
+[03:09:50] [chat] [rally3]: no message right
+[03:09:53] [chat] [[Lsrcr]Quiet]: yes
+[03:09:58] [chat] [rally3]: ok cool
+[03:10:12] [chat] [rally3]: aight will try to implement the damage now, will lyk when i have something to test
+[03:10:13] [chat] [rally3]: ty
+[03:10:18] [chat] [rally3]: (disconnecting server)
+[03:10:26] [chat] [[Lsrcr]Quiet]: wat
+[03:10:30] [chat] [rally3]: xd
+[03:10:39] [chat] [rally3]: i will try to code the whole damage thing
+[03:10:41] [kill] [Lsrcr]Quiet killed tester1 M4
+[03:10:43] [chat] [rally3]: will lyk how it works out
+[03:10:46] [chat] [rally3]: see ya and thanks
+[03:10:47] [part] rally3 has left the server (0:1)
+[03:10:49] [chat] [[Lsrcr]Quiet]: aight
+[03:11:07] [chat] [tester1]: xd cant play in the laptop\
+[03:11:32] [kill] [Lsrcr]Quiet killed tester1 Dildo
+[03:11:34] [chat] [tester1]: resp
+[03:11:35] [chat] [tester1]: xd
+[03:11:39] [chat] [[Lsrcr]Quiet]: Xd
+[03:11:42] [chat] [tester1]: aight shutting it off now
+[03:11:43] [chat] [tester1]: see ya
+[03:11:44] [part] tester1 has left the server (1:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[04:05:34] 
+[04:05:34] Server Plugins
+[04:05:34] --------------
+[04:05:34]  Loading plugin: pawncmd.so
+[04:05:34] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[04:05:34]   Loaded.
+[04:05:34]  Loading plugin: sscanf.so
+[04:05:34] 
+
+[04:05:34]  ===============================
+
+[04:05:34]       sscanf plugin loaded.     
+
+[04:05:34]          Version:  2.8.2        
+
+[04:05:34]    (c) 2012 Alex "Y_Less" Cole  
+
+[04:05:34]  ===============================
+
+[04:05:34]   Loaded.
+[04:05:34]  Loaded 2 plugins.
+
+[04:05:34] 
+[04:05:34] Filterscripts
+[04:05:34] ---------------
+[04:05:34]   Loaded 0 filterscripts.
+
+[04:05:34] 
+----------------------------------
+[04:05:34]  Testing Script by sys_bloat
+[04:05:34] ----------------------------------
+
+[04:05:34] Number of vehicle models: 0
+[04:05:58] [connection] 108.50.160.204:50190 requests connection cookie.
+[04:05:59] [connection] incoming connection: 108.50.160.204:50190 id: 0
+[04:06:00] [join] tester1 has joined the server (0:108.50.160.204)
+[04:06:37] [connection] 108.50.160.204:62267 requests connection cookie.
+[04:06:38] [connection] incoming connection: 108.50.160.204:62267 id: 1
+[04:06:39] [join] rally3 has joined the server (1:108.50.160.204)
+[04:07:51] [part] rally3 has left the server (1:1)
+[04:09:43] [connection] 108.50.160.204:64277 requests connection cookie.
+[04:09:44] [connection] incoming connection: 108.50.160.204:64277 id: 1
+[04:09:45] [join] rally3 has joined the server (1:108.50.160.204)
+[04:10:37] [connection] 156.196.117.66:55728 requests connection cookie.
+[04:10:38] [connection] incoming connection: 156.196.117.66:55728 id: 2
+[04:10:39] [join] [Lsrcr]Quiet has joined the server (2:156.196.117.66)
+[04:10:47] [chat] [[Lsrcr]Quiet]: hello brother!
+[04:11:09] [chat] [tester1]: heya
+[04:11:12] [chat] [tester1]: lil bug fix
+[04:11:13] [chat] [tester1]: sec
+[04:11:14] [chat] [[Lsrcr]Quiet]: sup
+[04:11:31] [chat] [tester1]: will reset
+[04:11:36] [chat] [tester1]: rejoin since it'd take a sec
+[04:11:36] [part] tester1 has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[04:11:57] 
+[04:11:57] Server Plugins
+[04:11:57] --------------
+[04:11:57]  Loading plugin: pawncmd.so
+[04:11:57] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[04:11:57]   Loaded.
+[04:11:57]  Loading plugin: sscanf.so
+[04:11:57] 
+
+[04:11:57]  ===============================
+
+[04:11:57]       sscanf plugin loaded.     
+
+[04:11:57]          Version:  2.8.2        
+
+[04:11:57]    (c) 2012 Alex "Y_Less" Cole  
+
+[04:11:57]  ===============================
+
+[04:11:57]   Loaded.
+[04:11:57]  Loaded 2 plugins.
+
+[04:11:57] 
+[04:11:57] Filterscripts
+[04:11:57] ---------------
+[04:11:57]   Loaded 0 filterscripts.
+
+[04:11:57] 
+----------------------------------
+[04:11:57]  Testing Script by sys_bloat
+[04:11:57] ----------------------------------
+
+[04:11:57] Number of vehicle models: 0
+[04:12:09] [connection] 108.50.160.204:52707 requests connection cookie.
+[04:12:10] [connection] incoming connection: 108.50.160.204:52707 id: 0
+[04:12:10] [join] rally3 has joined the server (0:108.50.160.204)
+[04:12:18] [connection] 108.50.160.204:64071 requests connection cookie.
+[04:12:19] [connection] incoming connection: 108.50.160.204:64071 id: 1
+[04:12:20] [join] tester1 has joined the server (1:108.50.160.204)
+[04:12:28] [connection] 156.196.117.66:60289 requests connection cookie.
+[04:12:29] [connection] incoming connection: 156.196.117.66:60289 id: 2
+[04:12:30] [join] [Lsrcr]Quiet has joined the server (2:156.196.117.66)
+[04:12:34] [chat] [tester1]: heya
+[04:12:39] [chat] [[Lsrcr]Quiet]: YTo
+[04:12:41] [chat] [[Lsrcr]Quiet]: yo
+[04:12:49] [chat] [tester1]: aight so i still didnt fix that anyway
+[04:12:52] [chat] [tester1]: lets try this out
+[04:12:57] [chat] [[Lsrcr]Quiet]: what to check out
+[04:13:02] [chat] [rally3]: get an m4
+[04:13:04] [chat] [rally3]:  /w 31 
+[04:13:25] [chat] [rally3]: get on my roof
+[04:13:35] [chat] [rally3]: try to shoot the lap
+[04:13:57] [chat] [rally3]: shoot the laptop
+[04:14:01] [chat] [rally3]: the laptop
+[04:14:02] [chat] [rally3]: lmao
+[04:14:05] [chat] [rally3]: ok cool
+[04:14:08] [chat] [rally3]: so u get no msg right
+[04:14:12] [chat] [[Lsrcr]Quiet]: ye
+[04:14:15] [chat] [rally3]: cause we not moving
+[04:14:17] [chat] [rally3]: lets try with moving
+[04:14:24] [chat] [[Lsrcr]Quiet]: got it
+[04:14:27] [chat] [[Lsrcr]Quiet]: when you moved
+[04:14:30] [chat] [rally3]: nice
+[04:14:37] [chat] [rally3]: keep shooiting the car
+[04:14:44] [chat] [rally3]: keep
+[04:14:45] [chat] [rally3]: see
+[04:14:46] [chat] [rally3]:  /dlk
+[04:14:51] [chat] [rally3]: when we not move, it doesnt take damage
+[04:14:57] [chat] [rally3]: rn its just to differentiate
+[04:15:03] [chat] [rally3]: the two states, which is good
+[04:15:06] [chat] [rally3]: but as you can see
+[04:15:21] [chat] [rally3]: i have a bug that now we dont take damage quite
+[04:15:28] [chat] [rally3]: i'd have to debug this a little
+[04:15:33] [chat] [rally3]: sec
+[04:16:14] [chat] [tester1]: actually
+[04:16:16] [chat] [tester1]: lets try sth
+[04:16:19] [chat] [tester1]: hop on
+[04:16:40] [chat] [tester1]: try to jump from top of this
+[04:16:43] [chat] [tester1]: see if u lose hpw
+[04:16:58] [chat] [tester1]: oh ok good
+[04:17:01] [chat] [[Lsrcr]Quiet]: obv
+[04:17:04] [chat] [[Lsrcr]Quiet]: yes
+[04:17:05] [chat] [tester1]: aight sec
+[04:17:08] [chat] [tester1]: fixing the other bug
+[04:17:17] [chat] [[Lsrcr]Quiet]: what is the other bug?
+[04:18:05] [kill] [Lsrcr]Quiet killed tester1 Dildo
+[04:18:08] [chat] [[Lsrcr]Quiet]: oops
+[04:18:36] [chat] [[Lsrcr]Quiet]: sorry brother rally
+[04:18:39] [chat] [[Lsrcr]Quiet]: happen by wrong
+[04:18:47] [chat] [tester1]: is ok
+[04:18:51] [chat] [tester1]: dont leave the server
+[04:18:56] [chat] [tester1]: ill restart, it should relog u in
+[04:19:07] [chat] [[Lsrcr]Quiet]: i will get bugged 
+[04:19:10] [chat] [[Lsrcr]Quiet]: like in lsrcr
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[04:19:22] 
+[04:19:22] Server Plugins
+[04:19:22] --------------
+[04:19:22]  Loading plugin: pawncmd.so
+[04:19:22] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[04:19:22]   Loaded.
+[04:19:22]  Loading plugin: sscanf.so
+[04:19:22] 
+
+[04:19:22]  ===============================
+
+[04:19:22]       sscanf plugin loaded.     
+
+[04:19:22]          Version:  2.8.2        
+
+[04:19:22]    (c) 2012 Alex "Y_Less" Cole  
+
+[04:19:22]  ===============================
+
+[04:19:22]   Loaded.
+[04:19:22]  Loaded 2 plugins.
+
+[04:19:22] 
+[04:19:22] Filterscripts
+[04:19:22] ---------------
+[04:19:22]   Loaded 0 filterscripts.
+
+[04:19:22] 
+----------------------------------
+[04:19:22]  Testing Script by sys_bloat
+[04:19:22] ----------------------------------
+
+[04:19:22] Number of vehicle models: 0
+[04:19:22] [connection] 156.196.117.66:53860 requests connection cookie.
+[04:19:23] [connection] incoming connection: 156.196.117.66:53860 id: 0
+[04:19:26] [connection] 108.50.160.204:63926 requests connection cookie.
+[04:19:27] [connection] incoming connection: 108.50.160.204:63926 id: 0
+[04:19:28] [join] tester1 has joined the server (0:108.50.160.204)
+[04:19:34] [connection] 108.50.160.204:51964 requests connection cookie.
+[04:19:35] [connection] incoming connection: 108.50.160.204:51964 id: 1
+[04:19:35] [join] rally3 has joined the server (1:108.50.160.204)
+[04:19:59] [connection] 156.196.117.66:59812 requests connection cookie.
+[04:20:00] [connection] incoming connection: 156.196.117.66:59812 id: 2
+[04:20:01] [join] [Lsrcr]Quiet has joined the server (2:156.196.117.66)
+[04:20:06] [chat] [[Lsrcr]Quiet]: *you're banned from this server*
+[04:20:08] [chat] [[Lsrcr]Quiet]: wtf lmao
+[04:20:18] [chat] [tester1]: xd
+[04:20:21] [chat] [tester1]: it should work as a relog
+[04:20:23] [chat] [[Lsrcr]Quiet]: lag issues
+[04:20:25] [chat] [tester1]: i have an idea on the bug now
+[04:20:31] [chat] [[Lsrcr]Quiet]: what bug is this
+[04:20:32] [chat] [tester1]: (server is in germany btw)
+[04:20:36] [chat] [tester1]: try shooting me
+[04:20:39] [chat] [[Lsrcr]Quiet]: w
+[04:20:43] [chat] [tester1]: see
+[04:20:47] [chat] [tester1]: i know what it is now
+[04:20:48] [chat] [[Lsrcr]Quiet]: not losing hp yea
+[04:21:15] [chat] [[Lsrcr]Quiet]: dildo can damage you tho
+[04:21:20] [chat] [[Lsrcr]Quiet]: effective tool
+[04:21:50] [chat] [[Lsrcr]Quiet]: lemme see 
+[04:22:06] [chat] [tester1]: oh wait
+[04:22:07] [chat] [[Lsrcr]Quiet]: damage informer nice
+[04:22:10] [chat] [tester1]: i got a damage one
+[04:22:12] [chat] [tester1]: what did u do
+[04:22:13] [chat] [tester1]: do it again
+[04:22:20] [chat] [tester1]: ohh
+[04:22:23] [chat] [tester1]: try gun
+[04:22:29] [chat] [tester1]: test
+[04:22:34] [part] [Lsrcr]Quiet has left the server (2:0)
+[04:23:07] [connection] 156.196.117.66:65429 requests connection cookie.
+[04:23:08] [connection] incoming connection: 156.196.117.66:65429 id: 2
+[04:23:09] [join] [Lsrcr]Quiet has joined the server (2:156.196.117.66)
+[04:23:12] [chat] [[Lsrcr]Quiet]: the fuck is this
+[04:23:15] [chat] [[Lsrcr]Quiet]: crashed lmao
+[04:23:30] [chat] [[Lsrcr]Quiet]: yes i can damage you with dildo
+[04:23:36] [chat] [[Lsrcr]Quiet]: not with m4
+[04:23:42] [chat] [tester1]: right
+[04:23:49] [chat] [tester1]: cause its a "onweaponshot" gun
+[04:23:56] [chat] [[Lsrcr]Quiet]: wat
+[04:23:58] [chat] [tester1]: this def means i know what the bug is now
+[04:23:59] [chat] [tester1]: one sec
+[04:24:01] [chat] [[Lsrcr]Quiet]: nice anyway
+[04:24:08] [chat] [[Lsrcr]Quiet]: go fix it
+[04:24:59] [chat] [tester1]: aight may take some time
+[04:25:03] [chat] [tester1]: since i have to readjust code
+[04:25:07] [chat] [tester1]: i'll call you when done
+[04:25:42] [chat] [[Lsrcr]Quiet]: are you going to post ss with these in the suggestion?
+[04:25:48] [chat] [[Lsrcr]Quiet]: when are you making it tho
+[04:26:03] [chat] [tester1]: dw
+[04:26:18] [chat] [tester1]: u can drive around/etc or go main server for now if u want
+[04:26:21] [chat] [tester1]: may take me 10 min or so
+[04:26:59] [chat] [[Lsrcr]Quiet]: i'm not worried 
+[04:27:00] [part] [Lsrcr]Quiet has left the server (2:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[04:36:54] 
+[04:36:54] Server Plugins
+[04:36:54] --------------
+[04:36:54]  Loading plugin: pawncmd.so
+[04:36:54] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[04:36:54]   Loaded.
+[04:36:54]  Loading plugin: sscanf.so
+[04:36:54] 
+
+[04:36:54]  ===============================
+
+[04:36:54]       sscanf plugin loaded.     
+
+[04:36:54]          Version:  2.8.2        
+
+[04:36:54]    (c) 2012 Alex "Y_Less" Cole  
+
+[04:36:54]  ===============================
+
+[04:36:54]   Loaded.
+[04:36:54]  Loaded 2 plugins.
+
+[04:36:54] 
+[04:36:54] Filterscripts
+[04:36:54] ---------------
+[04:36:54]   Loaded 0 filterscripts.
+
+[04:36:54] 
+----------------------------------
+[04:36:54]  Testing Script by sys_bloat
+[04:36:54] ----------------------------------
+
+[04:36:54] Number of vehicle models: 0
+[04:36:54] [connection] 108.50.160.204:63558 requests connection cookie.
+[04:36:55] [connection] incoming connection: 108.50.160.204:63559 id: 0
+[04:36:56] [join] tester1 has joined the server (0:108.50.160.204)
+[04:36:57] [connection] 108.50.160.204:51695 requests connection cookie.
+[04:36:58] [connection] incoming connection: 108.50.160.204:51695 id: 1
+[04:36:59] [join] rally3 has joined the server (1:108.50.160.204)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[04:38:10] 
+[04:38:10] Server Plugins
+[04:38:10] --------------
+[04:38:10]  Loading plugin: pawncmd.so
+[04:38:10] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[04:38:10]   Loaded.
+[04:38:10]  Loading plugin: sscanf.so
+[04:38:10] 
+
+[04:38:10]  ===============================
+
+[04:38:10]       sscanf plugin loaded.     
+
+[04:38:10]          Version:  2.8.2        
+
+[04:38:10]    (c) 2012 Alex "Y_Less" Cole  
+
+[04:38:10]  ===============================
+
+[04:38:10]   Loaded.
+[04:38:10]  Loaded 2 plugins.
+
+[04:38:10] 
+[04:38:10] Filterscripts
+[04:38:10] ---------------
+[04:38:10]   Loaded 0 filterscripts.
+
+[04:38:10] 
+----------------------------------
+[04:38:10]  Testing Script by sys_bloat
+[04:38:10] ----------------------------------
+
+[04:38:10] Number of vehicle models: 0
+[04:38:11] [connection] 108.50.160.204:56315 requests connection cookie.
+[04:38:12] [connection] incoming connection: 108.50.160.204:56315 id: 0
+[04:38:13] [join] tester1 has joined the server (0:108.50.160.204)
+[04:38:14] [connection] 108.50.160.204:50371 requests connection cookie.
+[04:38:15] [connection] incoming connection: 108.50.160.204:50371 id: 1
+[04:38:15] [join] rally3 has joined the server (1:108.50.160.204)
+[04:39:32] [connection] 156.196.117.66:59964 requests connection cookie.
+[04:39:33] [connection] incoming connection: 156.196.117.66:59964 id: 2
+[04:39:33] [join] [Lsrcr]Quiet has joined the server (2:156.196.117.66)
+[04:39:53] [chat] [rally3]: as u can see damage works now fine
+[04:40:02] [chat] [rally3]: try to shoot the car
+[04:40:02] [chat] [[Lsrcr]Quiet]: yeah
+[04:40:05] [chat] [rally3]: the laptop
+[04:40:18] [chat] [rally3]: as u can see, you're doing damage since the car isnt moving
+[04:40:25] [chat] [rally3]: get on this roof
+[04:40:29] [chat] [[Lsrcr]Quiet]: 5 damage each
+[04:40:36] [chat] [[Lsrcr]Quiet]: for the vehicle
+[04:40:43] [chat] [rally3]: ye thats fixed for now since i havent decided the amount of each weapon's damage
+[04:40:47] [chat] [rally3]: now if we move
+[04:40:51] [chat] [rally3]: try to shoot the laptops car
+[04:40:52] [chat] [rally3]: the sultan
+[04:41:01] [chat] [[Lsrcr]Quiet]: 0 damage given
+[04:41:34] [chat] [rally3]: keep shooting the car
+[04:41:35] [chat] [[Lsrcr]Quiet]: 0 damage when moving
+[04:41:35] [chat] [rally3]: spamming
+[04:41:47] [chat] [rally3]: ye 
+[04:41:48] [chat] [rally3]: ok works nice
+[04:41:50] [chat] [rally3]: :)
+[04:41:53] [chat] [[Lsrcr]Quiet]: :D
+[04:41:56] [chat] [rally3]: now all it needs
+[04:42:01] [chat] [rally3]: is a regulator
+[04:42:01] [chat] [[Lsrcr]Quiet]: needs what
+[04:42:03] [chat] [rally3]: for damage 
+[04:42:09] [chat] [[Lsrcr]Quiet]: ah nice
+[04:42:13] [chat] [rally3]: and for the vehicle speed
+[04:42:34] [chat] [rally3]: for that, we need to get a good picture of what my speed function returns when travelling
+[04:42:40] [chat] [rally3]: ill make a quick command for that
+[04:42:47] [chat] [[Lsrcr]Quiet]: cool
+[04:42:51] [chat] [rally3]: as in, when u Shoot me, it will tell us the speed im going at
+[04:42:51] [chat] [rally3]: sec
+[04:43:15] [chat] [[Lsrcr]Quiet]: spawn a radar at game 
+[04:43:16] [chat] [[Lsrcr]Quiet]: ez
+[04:43:36] [chat] [tester1]: done
+[04:43:37] [chat] [tester1]: sec
+[04:43:41] [chat] [tester1]: restarting, dont leave
+[04:43:45] [chat] [tester1]: it wont hpapen the lsrcr thing
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[04:44:06] 
+[04:44:06] Server Plugins
+[04:44:06] --------------
+[04:44:06]  Loading plugin: pawncmd.so
+[04:44:06] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[04:44:06]   Loaded.
+[04:44:06]  Loading plugin: sscanf.so
+[04:44:06] 
+
+[04:44:06]  ===============================
+
+[04:44:06]       sscanf plugin loaded.     
+
+[04:44:06]          Version:  2.8.2        
+
+[04:44:06]    (c) 2012 Alex "Y_Less" Cole  
+
+[04:44:06]  ===============================
+
+[04:44:06]   Loaded.
+[04:44:06]  Loaded 2 plugins.
+
+[04:44:06] 
+[04:44:06] Filterscripts
+[04:44:06] ---------------
+[04:44:06]   Loaded 0 filterscripts.
+
+[04:44:06] 
+----------------------------------
+[04:44:06]  Testing Script by sys_bloat
+[04:44:06] ----------------------------------
+
+[04:44:06] Number of vehicle models: 0
+[04:44:07] [connection] 156.196.117.66:52002 requests connection cookie.
+[04:44:08] [connection] incoming connection: 156.196.117.66:52002 id: 0
+[04:44:08] [join] [Lsrcr]Quiet has joined the server (0:156.196.117.66)
+[04:44:15] [connection] 108.50.160.204:56316 requests connection cookie.
+[04:44:16] [connection] incoming connection: 108.50.160.204:56316 id: 1
+[04:44:17] [join] tester1 has joined the server (1:108.50.160.204)
+[04:44:32] [chat] [tester1]: oopsie
+[04:44:40] [chat] [[Lsrcr]Quiet]: what happen
+[04:44:44] [chat] [tester1]: spawned the hydra xd
+[04:44:53] [chat] [[Lsrcr]Quiet]: i love hydra 
+[04:44:59] [connection] 108.50.160.204:54763 requests connection cookie.
+[04:45:00] [connection] incoming connection: 108.50.160.204:54763 id: 2
+[04:45:00] [join] rally3 has joined the server (2:108.50.160.204)
+[04:45:03] [chat] [rally3]: aight
+[04:45:17] [chat] [rally3]: get on my roof
+[04:45:23] [chat] [rally3]: then as i start to move, shoot me
+[04:45:30] [chat] [rally3]: give urself a lot of ammo
+[04:45:40] [chat] [rally3]: lmk when ready
+[04:45:52] [chat] [[Lsrcr]Quiet]: now
+[04:46:03] [chat] [rally3]: huh
+[04:46:04] [chat] [rally3]: sec
+[04:46:19] [chat] [tester1]: tiny bug
+[04:46:21] [chat] [tester1]: reloading
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[04:46:43] 
+[04:46:43] Server Plugins
+[04:46:43] --------------
+[04:46:43]  Loading plugin: pawncmd.so
+[04:46:43] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[04:46:43]   Loaded.
+[04:46:43]  Loading plugin: sscanf.so
+[04:46:43] 
+
+[04:46:43]  ===============================
+
+[04:46:43]       sscanf plugin loaded.     
+
+[04:46:43]          Version:  2.8.2        
+
+[04:46:43]    (c) 2012 Alex "Y_Less" Cole  
+
+[04:46:43]  ===============================
+
+[04:46:43]   Loaded.
+[04:46:43]  Loaded 2 plugins.
+
+[04:46:43] 
+[04:46:43] Filterscripts
+[04:46:43] ---------------
+[04:46:43]   Loaded 0 filterscripts.
+
+[04:46:43] 
+----------------------------------
+[04:46:43]  Testing Script by sys_bloat
+[04:46:43] ----------------------------------
+
+[04:46:43] Number of vehicle models: 0
+[04:46:43] [connection] 108.50.160.204:54480 requests connection cookie.
+[04:46:43] [connection] 156.196.117.66:60813 requests connection cookie.
+[04:46:44] [connection] incoming connection: 108.50.160.204:54480 id: 0
+[04:46:44] [connection] incoming connection: 156.196.117.66:60813 id: 1
+[04:46:45] [join] tester1 has joined the server (0:108.50.160.204)
+[04:46:45] [join] [Lsrcr]Quiet has joined the server (1:156.196.117.66)
+[04:46:49] [connection] 108.50.160.204:59364 requests connection cookie.
+[04:46:50] [connection] incoming connection: 108.50.160.204:59364 id: 2
+[04:46:51] [join] rally3 has joined the server (2:108.50.160.204)
+[04:47:14] [chat] [rally3]: hop on
+[04:47:20] [chat] [rally3]: try now
+[04:47:25] [chat] [rally3]: ok nice
+[04:47:26] [chat] [rally3]: lmao
+[04:47:32] [chat] [rally3]: give urself plenty of ammo
+[04:47:42] [chat] [rally3]: then im gonna go for a drive, so we can get a reference
+[04:47:47] [chat] [rally3]: lmk when ready
+[04:47:58] [chat] [[Lsrcr]Quiet]: GOO
+[04:48:59] [chat] [rally3]: ok
+[04:49:00] [chat] [rally3]: nice
+[04:49:04] [chat] [rally3]: lets try another car
+[04:49:09] [chat] [[Lsrcr]Quiet]: no damage in moving.
+[04:49:09] [chat] [rally3]: to see if what i think is happening is true
+[04:50:32] [chat] [[Lsrcr]Quiet]: ok no more
+[04:50:34] [chat] [rally3]: aight
+[04:50:37] [chat] [rally3]: lemme try just one more veh
+[04:50:39] [chat] [rally3]: and thats it
+[04:50:47] [chat] [rally3]: oopsie
+[04:50:52] [chat] [rally3]: ok good
+[04:51:52] [chat] [rally3]: ok nice
+[04:52:02] [chat] [rally3]: can u tell that they all mostly are in a range of 0 to 1
+[04:52:14] [chat] [rally3]: try to shoot me now
+[04:52:22] [chat] [rally3]: ahh
+[04:52:25] [chat] [rally3]: thats a bug i feared
+[04:52:30] [chat] [[Lsrcr]Quiet]: fuck
+[04:52:30] [chat] [rally3]: when u shoot me as the driver
+[04:52:37] [chat] [rally3]: the game thinks that the vehicle is getting hit
+[04:52:41] [chat] [rally3]: and not the driver
+[04:52:52] [chat] [[Lsrcr]Quiet]: yea
+[04:52:59] [chat] [rally3]: i'd have to work around it by seeing the vector of your last fired bullet
+[04:53:06] [chat] [rally3]: ill make a note about that
+[04:54:33] [chat] [[Lsrcr]Quiet]: .
+[04:54:36] [chat] [rally3]: aight wrote it down
+[04:54:42] [chat] [[Lsrcr]Quiet]: Nice
+[04:54:51] [chat] [rally3]: if u dont mind i'd like one last test eventually
+[04:54:53] [chat] [rally3]: idk if today
+[04:55:01] [chat] [[Lsrcr]Quiet]: look
+[04:55:03] [chat] [[Lsrcr]Quiet]: the damage
+[04:55:08] [chat] [rally3]: ye xd
+[04:55:14] [chat] [[Lsrcr]Quiet]: no info
+[04:55:14] [chat] [rally3]: everything is damaging 5 
+[04:55:19] [chat] [rally3]: i took the info out
+[04:55:19] [chat] [rally3]: dw
+[04:55:24] [chat] [[Lsrcr]Quiet]: lmao
+[04:55:26] [chat] [[Lsrcr]Quiet]: okay
+[04:55:33] [chat] [rally3]: so ill work on that
+[04:55:35] [chat] [rally3]: and lyk if done
+[04:55:38] [chat] [rally3]: thanks for the help again
+[04:55:40] [chat] [rally3]: :thumbsup:
+[04:55:49] [chat] [[Lsrcr]Quiet]: np
+[04:55:53] [chat] [[Lsrcr]Quiet]: :sad:
+[04:55:57] [chat] [tester1]: i can still read shit in the laptop too btw
+[04:56:05] [chat] [tester1]: so if u gotta type type here or whatever or discord
+[04:56:08] [chat] [tester1]: ill read any of them
+[04:56:20] [chat] [[Lsrcr]Quiet]: going for cs go
+[04:56:24] [chat] [[Lsrcr]Quiet]: bored af
+[04:56:31] [chat] [[Lsrcr]Quiet]: sure 
+[04:56:32] [chat] [[Lsrcr]Quiet]: why not
+[04:57:04] [chat] [[Lsrcr]Quiet]: practise to be pro 
+[04:57:08] [chat] [[Lsrcr]Quiet]: :muscles:
+[04:58:19] [chat] [tester1]: resp
+[05:01:35] [chat] [tester1]: my laptop boutta die
+[05:01:37] [chat] [tester1]: gotta charge
+[05:01:48] [chat] [[Lsrcr]Quiet]: go charge it
+[05:02:18] [part] tester1 has left the server (0:0)
+[05:03:16] [chat] [[Lsrcr]Quiet]: brb
+[05:04:35] [connection] 108.50.160.204:52909 requests connection cookie.
+[05:04:36] [connection] incoming connection: 108.50.160.204:52909 id: 0
+[05:04:36] [join] tester1 has joined the server (0:108.50.160.204)
+[05:04:42] [chat] [tester1]: was late to recharge xd
+[05:06:24] [chat] [tester1]: ok u here?
+[05:06:32] [chat] [tester1]: we gonna have to do a different type of testing now
+[05:07:27] [chat] [[Lsrcr]Quiet]: hi
+[05:07:41] [chat] [tester1]: gotta go see the default damage weapons have 
+[05:07:53] [chat] [[Lsrcr]Quiet]: lets ee
+[05:07:57] [chat] [[Lsrcr]Quiet]: w
+[05:08:13] [chat] [tester1]: xd
+[05:08:20] [chat] [tester1]: one sec, setting the gun thing up
+[05:08:23] [chat] [[Lsrcr]Quiet]: xd !
+[05:08:36] [chat] [[Lsrcr]Quiet]: check the damage for the driver 
+[05:08:41] [chat] [[Lsrcr]Quiet]: if you fixed it
+[05:09:06] [chat] [tester1]: oh no 
+[05:09:10] [chat] [tester1]: thats gonna be really hard
+[05:09:12] [chat] [tester1]: to fix
+[05:09:17] [chat] [tester1]: since samp itself has that bug
+[05:09:18] [chat] [[Lsrcr]Quiet]: you making it later ok
+[05:09:22] [chat] [tester1]: ye thats for later
+[05:09:48] [chat] [[Lsrcr]Quiet]: did you set it? 
+[05:10:45] [chat] [[Lsrcr]Quiet]: its hard but possible to fix yes?
+[05:11:59] [chat] [[Lsrcr]Quiet]: hello
+[05:12:25] [chat] [tester1]: hey
+[05:12:35] [chat] [tester1]: idk if possible to fix if im honest with u
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[05:13:35] 
+[05:13:35] Server Plugins
+[05:13:35] --------------
+[05:13:35]  Loading plugin: pawncmd.so
+[05:13:35] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[05:13:35]   Loaded.
+[05:13:35]  Loading plugin: sscanf.so
+[05:13:35] 
+
+[05:13:35]  ===============================
+
+[05:13:35]       sscanf plugin loaded.     
+
+[05:13:35]          Version:  2.8.2        
+
+[05:13:35]    (c) 2012 Alex "Y_Less" Cole  
+
+[05:13:35]  ===============================
+
+[05:13:35]   Loaded.
+[05:13:35]  Loaded 2 plugins.
+
+[05:13:36] 
+[05:13:36] Filterscripts
+[05:13:36] ---------------
+[05:13:36]   Loaded 0 filterscripts.
+
+[05:13:36] 
+----------------------------------
+[05:13:36]  Testing Script by sys_bloat
+[05:13:36] ----------------------------------
+
+[05:13:36] Number of vehicle models: 0
+[05:13:36] [connection] 108.50.160.204:52910 requests connection cookie.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[05:13:53] 
+[05:13:53] Server Plugins
+[05:13:53] --------------
+[05:13:53]  Loading plugin: pawncmd.so
+[05:13:53] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[05:13:53]   Loaded.
+[05:13:53]  Loading plugin: sscanf.so
+[05:13:53] 
+
+[05:13:53]  ===============================
+
+[05:13:53]       sscanf plugin loaded.     
+
+[05:13:53]          Version:  2.8.2        
+
+[05:13:53]    (c) 2012 Alex "Y_Less" Cole  
+
+[05:13:53]  ===============================
+
+[05:13:53]   Loaded.
+[05:13:53]  Loaded 2 plugins.
+
+[05:13:53] 
+[05:13:53] Filterscripts
+[05:13:53] ---------------
+[05:13:53]   Loaded 0 filterscripts.
+
+[05:13:53] 
+----------------------------------
+[05:13:53]  Testing Script by sys_bloat
+[05:13:53] ----------------------------------
+
+[05:13:53] Number of vehicle models: 0
+[05:13:53] [connection] 156.196.117.66:62724 requests connection cookie.
+[05:13:54] [connection] 108.50.160.204:52913 requests connection cookie.
+[05:13:54] [connection] incoming connection: 156.196.117.66:62724 id: 0
+[05:13:55] [join] [Lsrcr]Quiet has joined the server (0:156.196.117.66)
+[05:13:55] [connection] incoming connection: 108.50.160.204:52913 id: 1
+[05:13:55] [join] tester1 has joined the server (1:108.50.160.204)
+[05:13:59] [chat] [tester1]: heay
+[05:14:03] [chat] [tester1]: so weap tests
+[05:14:05] [chat] [[Lsrcr]Quiet]: ho
+[05:14:07] [chat] [tester1]: we start with id 0
+[05:14:14] [chat] [[Lsrcr]Quiet]: oh no
+[05:14:15] [chat] [tester1]: which is just punching
+[05:14:20] [chat] [tester1]: so come and punch me
+[05:14:25] [chat] [tester1]: ok
+[05:14:37] [chat] [tester1]: huh it changes based on whether its a combo attack or not
+[05:14:48] [chat] [tester1]: i'll just take an the middle value
+[05:14:49] [chat] [tester1]: fuck it
+[05:14:51] [chat] [[Lsrcr]Quiet]: yes lol
+[05:15:01] [chat] [tester1]: ok next id 1
+[05:15:04] [chat] [tester1]: the punch thingy
+[05:15:08] [chat] [tester1]: brass knuckles
+[05:15:24] [chat] [[Lsrcr]Quiet]: same
+[05:15:30] [chat] [tester1]: same thing
+[05:15:34] [chat] [tester1]: but since its the knuckles
+[05:15:38] [chat] [tester1]: ill give it a 3.00
+[05:15:43] [chat] [tester1]: instead of 2.31
+[05:15:43] [chat] [[Lsrcr]Quiet]: it must have a higher
+[05:15:45] [chat] [tester1]: ye
+[05:15:48] [chat] [[Lsrcr]Quiet]: nice
+[05:15:55] [chat] [tester1]: next id 2
+[05:15:58] [chat] [tester1]: the golf club
+[05:16:05] [chat] [tester1]: oof
+[05:16:07] [chat] [tester1]: nice
+[05:16:11] [chat] [tester1]: 4.62 it is
+[05:16:17] [chat] [[Lsrcr]Quiet]: 6.60 for the last one
+[05:16:23] [chat] [tester1]: ye thats the combo mechanic
+[05:16:28] [chat] [tester1]: cba to keep track of that
+[05:16:40] [chat] [tester1]: now id 3
+[05:16:44] [chat] [tester1]: the police baton
+[05:16:59] [chat] [tester1]: same as golf
+[05:17:04] [chat] [[Lsrcr]Quiet]: same shit
+[05:17:12] [chat] [tester1]: next id 5 
+[05:17:14] [chat] [tester1]: baseball bat
+[05:17:20] [chat] [tester1]: same
+[05:17:30] [chat] [[Lsrcr]Quiet]: same
+[05:17:31] [chat] [[Lsrcr]Quiet]: shovel
+[05:17:42] [chat] [[Lsrcr]Quiet]: billiard stick
+[05:17:43] [chat] [tester1]: wait
+[05:17:44] [chat] [[Lsrcr]Quiet]: same
+[05:17:45] [chat] [tester1]: dont go so fast
+[05:17:49] [chat] [tester1]: i gotta write them down
+[05:17:54] [chat] [tester1]: we're at the stick now
+[05:17:57] [chat] [tester1]: so 7 
+[05:18:01] [chat] [tester1]: ok
+[05:18:03] [chat] [tester1]: ready
+[05:18:04] [chat] [[Lsrcr]Quiet]: 7 is the stickl
+[05:18:05] [chat] [tester1]: go with 8
+[05:18:11] [chat] [tester1]: no, 7 is the pool cue
+[05:18:19] [chat] [tester1]: ok now 8 katana
+[05:18:20] [chat] [tester1]: go
+[05:18:31] [chat] [tester1]: seems too little to give it 2
+[05:18:37] [chat] [tester1]: i say 4.62 as well
+[05:18:39] [chat] [tester1]: like the others
+[05:18:44] [chat] [[Lsrcr]Quiet]: yeah
+[05:18:52] [chat] [tester1]: now chainsaw
+[05:18:56] [chat] [tester1]: dont spam it
+[05:18:58] [chat] [tester1]: just tap once
+[05:19:03] [chat] [tester1]: ok
+[05:19:07] [chat] [[Lsrcr]Quiet]: op
+[05:19:08] [chat] [tester1]: so 13 individually
+[05:19:13] [chat] [tester1]: now try to "cut me"
+[05:19:19] [chat] [tester1]: like how pakis would kill
+[05:19:22] [chat] [[Lsrcr]Quiet]: i'll eat you
+[05:19:28] [chat] [tester1]: no not like that
+[05:19:31] [chat] [tester1]: like this
+[05:19:37] [chat] [tester1]: ye like that
+[05:19:42] [kill] [Lsrcr]Quiet killed tester1 Chainsaw
+[05:19:46] [chat] [tester1]: ok so 6.6 held
+[05:19:46] [chat] [[Lsrcr]Quiet]: 6.60
+[05:19:56] [chat] [tester1]: i say we make it 6.60 overall
+[05:20:03] [chat] [[Lsrcr]Quiet]: do it
+[05:20:04] [chat] [tester1]: so that theres not 2 different values
+[05:20:11] [chat] [tester1]: now dildo
+[05:20:15] [chat] [tester1]: id 10
+[05:20:16] [chat] [[Lsrcr]Quiet]: that would be better
+[05:20:24] [chat] [tester1]: ok
+[05:20:27] [chat] [tester1]: what ill do is
+[05:20:31] [chat] [tester1]: for the rest of these "hand ones"
+[05:20:34] [chat] [tester1]: ill just give them 4.62
+[05:20:38] [chat] [tester1]: since thats what they prob did too
+[05:20:45] [chat] [tester1]: so gimme a sec
+[05:20:47] [chat] [[Lsrcr]Quiet]: only few are different
+[05:21:01] [chat] [[Lsrcr]Quiet]: make them all at the same range 
+[05:21:46] [chat] [tester1]: 16
+[05:21:50] [chat] [tester1]: now
+[05:21:51] [chat] [tester1]: granade
+[05:21:53] [chat] [tester1]: rip
+[05:22:45] [chat] [tester1]: aight now granades
+[05:22:46] [chat] [tester1]: id 16
+[05:23:00] [chat] [tester1]: huh
+[05:23:01] [chat] [tester1]: try again
+[05:23:03] [chat] [[Lsrcr]Quiet]: lmao
+[05:23:06] [chat] [[Lsrcr]Quiet]: so confusion
+[05:23:13] [chat] [tester1]: ok so 82.50
+[05:23:15] [chat] [[Lsrcr]Quiet]: well
+[05:23:16] [chat] [[Lsrcr]Quiet]: 82
+[05:23:25] [chat] [tester1]: makes sense, take 2 granades and u die no matter what
+[05:23:26] [chat] [tester1]: seems logic
+[05:23:37] [chat] [[Lsrcr]Quiet]: logic
+[05:23:40] [chat] [tester1]: now the next
+[05:23:41] [chat] [tester1]: id 17
+[05:23:45] [chat] [tester1]: teargas
+[05:23:51] [chat] [[Lsrcr]Quiet]: lagpit *samp phsyics
+[05:23:55] [chat] [tester1]:  x d
+[05:24:08] [chat] [tester1]: i guess the damage is when it hits u 
+[05:24:11] [chat] [tester1]: so ill just say 3.63
+[05:24:18] [chat] [tester1]: next
+[05:24:19] [chat] [tester1]: id 18
+[05:24:32] [chat] [tester1]: id 18
+[05:24:34] [chat] [tester1]: molotov xd
+[05:24:47] [chat] [[Lsrcr]Quiet]: hell
+[05:24:47] [chat] [tester1]: so 0.10 or so
+[05:24:53] [chat] [[Lsrcr]Quiet]: hellllllllllllllllll
+[05:24:53] [chat] [tester1]: make sure it doesnt hit u
+[05:24:55] [chat] [[Lsrcr]Quiet]: lmao
+[05:24:59] [chat] [tester1]: or else it will say the messages as well
+[05:25:03] [chat] [tester1]: anyways ill put 0.10
+[05:25:19] [chat] [tester1]: net id 19
+[05:25:24] [chat] [tester1]: invalid id
+[05:25:25] [chat] [[Lsrcr]Quiet]: tear gas is working on the opponent 
+[05:25:29] [chat] [[Lsrcr]Quiet]: i saw it on other servers
+[05:25:33] [chat] [tester1]: xd
+[05:25:39] [chat] [tester1]: it has an animation that u supposed to make 
+[05:25:41] [chat] [tester1]: if u get hit by it
+[05:25:47] [chat] [tester1]: but its not even in lsrcr 
+[05:25:47] [chat] [[Lsrcr]Quiet]: its shit
+[05:25:49] [chat] [tester1]: xd
+[05:25:52] [chat] [tester1]: in sp it was good
+[05:25:53] [chat] [tester1]: anyway
+[05:25:58] [chat] [tester1]: id 19 is vehicle missile
+[05:26:07] [chat] [tester1]: so ill put that on 300
+[05:26:15] [chat] [tester1]: or idk
+[05:26:22] [chat] [tester1]: actually
+[05:26:24] [chat] [tester1]: i have an idea to test
+[05:26:26] [chat] [tester1]: stay here
+[05:26:27] [chat] [[Lsrcr]Quiet]: check it
+[05:26:34] [chat] [tester1]: wrong id
+[05:26:51] [chat] [tester1]: do /health 100
+[05:26:56] [chat] [tester1]:  /armor 100
+[05:27:10] [chat] [tester1]: 82.50 too
+[05:27:12] [chat] [tester1]: ok makes sense
+[05:27:15] [chat] [tester1]: same dmg as granades
+[05:27:19] [chat] [[Lsrcr]Quiet]: yeee
+[05:27:30] [chat] [[Lsrcr]Quiet]: for rhino cannon too i think
+[05:27:31] [chat] [tester1]: id 20 is the hydra flare
+[05:27:33] [chat] [tester1]: thats no damage
+[05:27:39] [chat] [tester1]: id 21 is jetpack, no damage
+[05:27:42] [chat] [tester1]: id 22 is pistol
+[05:27:44] [chat] [tester1]: 9mm
+[05:27:59] [chat] [[Lsrcr]Quiet]: 8.25 for one
+[05:28:01] [chat] [tester1]: just take one shot if possible
+[05:28:16] [chat] [tester1]: ok so ye its 8.25 for eah
+[05:28:17] [chat] [[Lsrcr]Quiet]: i did
+[05:28:29] [chat] [tester1]: 23
+[05:28:31] [chat] [tester1]: silenced pistol
+[05:28:45] [chat] [tester1]: 24, deagle
+[05:29:01] [kill] tester1 killed [Lsrcr]Quiet Desert Eagle
+[05:29:05] [chat] [tester1]: oops
+[05:29:06] [chat] [tester1]: lmao
+[05:29:11] [chat] [[Lsrcr]Quiet]: 46.20
+[05:29:13] [chat] [tester1]: ye
+[05:29:34] [chat] [tester1]: 25, shotgun
+[05:29:45] [chat] [[Lsrcr]Quiet]: depends
+[05:29:49] [chat] [tester1]: 49.50 seems fine
+[05:29:50] [chat] [[Lsrcr]Quiet]: on arm 42.90
+[05:29:55] [chat] [tester1]: ohh right
+[05:29:59] [chat] [tester1]: it depends on where u get shot
+[05:30:04] [chat] [[Lsrcr]Quiet]: yes
+[05:30:13] [chat] [tester1]: but the function im using for that doesnt let me pick the part of the body
+[05:30:19] [chat] [tester1]: so we'll go with 42.90
+[05:30:30] [chat] [[Lsrcr]Quiet]: 49.50 is the main
+[05:30:43] [chat] [tester1]: 43.50 then
+[05:30:45] [chat] [tester1]: as the middle
+[05:30:53] [chat] [tester1]: its cool
+[05:30:55] [chat] [tester1]: 43.50 
+[05:30:56] [chat] [[Lsrcr]Quiet]: aight
+[05:31:02] [chat] [tester1]: now 26
+[05:31:04] [chat] [tester1]: sawnoff
+[05:31:16] [chat] [[Lsrcr]Quiet]: wat
+[05:31:20] [kill] [Lsrcr]Quiet killed tester1 Sawn-off Shotgun
+[05:31:22] [chat] [tester1]: its 2 pellets that u shoot
+[05:31:31] [chat] [tester1]: 42 seems a bit high
+[05:31:35] [chat] [[Lsrcr]Quiet]: one 49.50 and one 42.90
+[05:31:35] [chat] [tester1]: and people abuse sawnoff quite a lot
+[05:31:40] [chat] [tester1]: so i'll put it on 35.00
+[05:31:55] [chat] [[Lsrcr]Quiet]: for both shots?
+[05:32:01] [chat] [tester1]: thats each shot
+[05:32:06] [chat] [tester1]: besides
+[05:32:08] [chat] [tester1]: if it was my call
+[05:32:13] [chat] [tester1]: there'd be no double guns
+[05:32:19] [chat] [tester1]: no double sawns, no double pistols, etc
+[05:32:30] [chat] [[Lsrcr]Quiet]: dueling would be shit lmao
+[05:32:35] [chat] [tester1]: id 27 now
+[05:32:36] [chat] [tester1]: spas
+[05:32:48] [chat] [tester1]: u see
+[05:32:55] [chat] [[Lsrcr]Quiet]: i'm sure that i depends on the part of your body
+[05:32:55] [chat] [tester1]: 35.00 not so bad for an individual sawnoff
+[05:33:12] [chat] [tester1]: specially if u can weild 2 of them
+[05:33:19] [chat] [[Lsrcr]Quiet]: nice
+[05:33:28] [chat] [tester1]: ok, so weapon id 28 now
+[05:33:34] [chat] [tester1]: uzi
+[05:33:37] [chat] [tester1]: ok 6.60
+[05:33:40] [chat] [[Lsrcr]Quiet]: for each
+[05:33:47] [chat] [[Lsrcr]Quiet]: seems fine
+[05:33:47] [chat] [tester1]: 29 now
+[05:33:50] [chat] [tester1]: mp5
+[05:33:59] [chat] [tester1]: 30 now
+[05:34:02] [chat] [tester1]: ak
+[05:34:02] [chat] [[Lsrcr]Quiet]: 8.25 is already good
+[05:34:04] [chat] [tester1]: ye
+[05:34:06] [chat] [tester1]: i kept it
+[05:34:18] [chat] [tester1]: 9.9 fine
+[05:34:21] [chat] [tester1]: now 31
+[05:34:22] [chat] [tester1]: m4
+[05:34:28] [chat] [[Lsrcr]Quiet]: same
+[05:34:33] [chat] [tester1]: 32
+[05:34:34] [chat] [tester1]: tec 9
+[05:34:43] [chat] [tester1]: good
+[05:34:45] [chat] [tester1]: same as uzi
+[05:34:46] [chat] [tester1]: sec
+[05:34:54] [chat] [tester1]: ok
+[05:34:57] [chat] [tester1]: so now id 33
+[05:34:59] [chat] [[Lsrcr]Quiet]: only mp5 is different
+[05:35:05] [chat] [tester1]: ye and it makes sense
+[05:35:07] [chat] [tester1]: oof 
+[05:35:09] [chat] [tester1]: 24.75
+[05:35:10] [chat] [[Lsrcr]Quiet]: rally
+[05:35:12] [chat] [[Lsrcr]Quiet]: make it 25
+[05:35:16] [chat] [[Lsrcr]Quiet]: 4 shots are enough
+[05:35:25] [chat] [tester1]: ye
+[05:35:30] [chat] [tester1]: 25.00
+[05:35:31] [chat] [[Lsrcr]Quiet]: its less used anyway lmao
+[05:35:37] [chat] [tester1]: next
+[05:35:43] [chat] [tester1]: 34 (sniper)
+[05:35:54] [chat] [tester1]: i'd say
+[05:35:55] [chat] [tester1]: keep this
+[05:35:59] [chat] [tester1]: but make the other sniper
+[05:36:01] [chat] [tester1]: 35.00
+[05:36:08] [chat] [[Lsrcr]Quiet]: rile?
+[05:36:10] [chat] [[Lsrcr]Quiet]: rifle?
+[05:36:13] [chat] [tester1]: the country rifle ye
+[05:36:23] [chat] [[Lsrcr]Quiet]: hmm sure
+[05:36:24] [chat] [tester1]: ok next one, id 35 
+[05:36:25] [chat] [tester1]: rpg
+[05:36:33] [chat] [[Lsrcr]Quiet]: like nades
+[05:36:34] [chat] [tester1]: same as granade
+[05:36:35] [chat] [tester1]: is fine
+[05:36:46] [chat] [tester1]: go ahead
+[05:36:53] [chat] [[Lsrcr]Quiet]: this is never being used :*
+[05:36:58] [chat] [tester1]: same
+[05:37:05] [chat] [[Lsrcr]Quiet]: it should be for army
+[05:37:05] [chat] [tester1]: next one
+[05:37:07] [chat] [tester1]: 37
+[05:37:13] [chat] [tester1]: ok 
+[05:37:15] [chat] [tester1]: ill say 0.15
+[05:37:19] [chat] [tester1]: actually
+[05:37:27] [chat] [tester1]: ok 
+[05:37:28] [chat] [[Lsrcr]Quiet]: lol wat
+[05:37:29] [chat] [tester1]: can talk now
+[05:37:31] [chat] [tester1]: id say 0.10
+[05:37:33] [chat] [[Lsrcr]Quiet]: lmao
+[05:37:34] [chat] [tester1]: just like molotov
+[05:37:37] [chat] [tester1]: or actually
+[05:37:40] [chat] [tester1]: molotov is harder
+[05:37:42] [chat] [[Lsrcr]Quiet]: its 10-20
+[05:37:43] [chat] [tester1]: so make this 0.8
+[05:37:47] [chat] [tester1]: no, 0.10
+[05:38:03] [chat] [tester1]: ok, id 38
+[05:38:04] [chat] [tester1]: minigun
+[05:38:15] [chat] [[Lsrcr]Quiet]: molotov and flame wont be used in lsrcr ye?
+[05:38:29] [chat] [tester1]: try again
+[05:38:34] [chat] [tester1]: a single bullet if possible
+[05:38:37] [chat] [tester1]: ok that was 3
+[05:38:42] [chat] [tester1]: aight each is 46.20 then
+[05:38:45] [chat] [[Lsrcr]Quiet]: hard to control lol
+[05:38:47] [chat] [[Lsrcr]Quiet]: ye
+[05:38:49] [chat] [[Lsrcr]Quiet]: 46.20
+[05:38:53] [chat] [tester1]: id 39
+[05:38:58] [chat] [tester1]: the satchels
+[05:39:04] [chat] [tester1]: same as nades
+[05:39:05] [chat] [tester1]: cool
+[05:39:13] [chat] [[Lsrcr]Quiet]: all explosives are same
+[05:39:14] [chat] [tester1]: actually 
+[05:39:15] [chat] [tester1]: ye
+[05:39:17] [chat] [tester1]: so
+[05:39:19] [chat] [tester1]: go next id 
+[05:39:23] [chat] [tester1]: id 40
+[05:39:27] [chat] [[Lsrcr]Quiet]: the remote
+[05:39:35] [chat] [tester1]: aight, so 0 that
+[05:39:41] [chat] [tester1]: 41
+[05:39:43] [chat] [tester1]: spray can
+[05:39:54] [chat] [tester1]: ok 0.33
+[05:40:00] [chat] [[Lsrcr]Quiet]: 0.33
+[05:40:14] [chat] [[Lsrcr]Quiet]: 0.3 makes no difference
+[05:40:16] [chat] [tester1]: 42
+[05:40:23] [chat] [tester1]: fire extinguisher
+[05:40:32] [chat] [tester1]: ok same
+[05:40:43] [chat] [tester1]: thats it i think
+[05:40:44] [chat] [[Lsrcr]Quiet]: 0
+[05:40:45] [chat] [tester1]: lmao
+[05:40:48] [chat] [[Lsrcr]Quiet]: for this
+[05:40:54] [chat] [tester1]: yep, the other ones left are just death reasons
+[05:40:58] [chat] [tester1]: and connect/disconnects
+[05:41:06] [chat] [tester1]: aight, lets try to use this now with vehicles
+[05:41:07] [chat] [tester1]: one sec, 
+[05:41:17] [chat] [tester1]: it gave me thermal vision too
+[05:41:18] [chat] [tester1]: lmaooo
+[05:41:20] [chat] [tester1]: jajaja
+[05:41:27] [chat] [tester1]: well night vision
+[05:41:28] [chat] [[Lsrcr]Quiet]: loool
+[05:41:37] [chat] [[Lsrcr]Quiet]: thats very useful
+[05:41:40] [chat] [[Lsrcr]Quiet]: if used for army
+[05:41:43] [chat] [tester1]: did u get thermal
+[05:41:48] [chat] [[Lsrcr]Quiet]: yess
+[05:41:50] [chat] [[Lsrcr]Quiet]: lmaoooooooo
+[05:41:50] [chat] [tester1]: lmaoooo it adds up
+[05:41:51] [chat] [tester1]: u see?
+[05:41:53] [chat] [tester1]: hahahah
+[05:41:57] [chat] [[Lsrcr]Quiet]: hhaha
+[05:42:09] [chat] [tester1]: not used anyways so it doesnt matter xd
+[05:42:10] [chat] [[Lsrcr]Quiet]: i will suggest to add it for army
+[05:42:14] [chat] [tester1]: no
+[05:42:16] [chat] [tester1]: knai
+[05:42:17] [chat] [[Lsrcr]Quiet]: pls
+[05:42:17] [chat] [tester1]: lmao
+[05:42:26] [chat] [[Lsrcr]Quiet]: whu
+[05:43:19] [chat] [[Lsrcr]Quiet]: take it off lol 
+[05:43:22] [chat] [[Lsrcr]Quiet]: i'm blinded
+[05:43:28] [chat] [tester1]: xd
+[05:43:33] [chat] [[Lsrcr]Quiet]: omg 
+[05:43:42] [chat] [tester1]: wonder if thats like a general samp bugt
+[05:43:43] [chat] [tester1]: lol
+[05:43:55] [chat] [[Lsrcr]Quiet]: if you wear it, it comes for me lol
+[05:45:49] [chat] [[Lsrcr]Quiet]: did you include it?
+[05:45:55] [chat] [[Lsrcr]Quiet]: this knife
+[05:46:00] [chat] [[Lsrcr]Quiet]: the knife
+[05:46:37] [chat] [tester1]: aight think the damages and stuff is ready for a vehicle test
+[05:46:44] [chat] [tester1]: is there anyone else online
+[05:46:57] [chat] [[Lsrcr]Quiet]: like what
+[05:46:58] [chat] [tester1]: would be good to have an independent driver
+[05:47:12] [chat] [[Lsrcr]Quiet]: we have tester1 the goat
+[05:47:21] [chat] [tester1]: u think playa will join this
+[05:47:22] [chat] [tester1]: xd
+[05:47:28] [chat] [tester1]: but i cant play on two keyboards at once
+[05:47:31] [chat] [tester1]: thats the problmem
+[05:47:43] [chat] [[Lsrcr]Quiet]: hmm
+[05:47:47] [chat] [tester1]: or maybe lm
+[05:47:47] [chat] [[Lsrcr]Quiet]: if he wants to get mod
+[05:47:48] [chat] [tester1]: lml
+[05:47:54] [chat] [tester1]: then he'll join for sure
+[05:47:55] [chat] [[Lsrcr]Quiet]: call lml
+[05:47:58] [chat] [tester1]: ill call him
+[05:48:39] [chat] [[Lsrcr]Quiet]: are all these stuff tested to be implemented in lsrcr?
+[05:48:48] [chat] [[Lsrcr]Quiet]: or what
+[05:48:56] [chat] [tester1]: restarting
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[05:50:05] 
+[05:50:05] Server Plugins
+[05:50:05] --------------
+[05:50:05]  Loading plugin: pawncmd.so
+[05:50:05] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[05:50:05]   Loaded.
+[05:50:05]  Loading plugin: sscanf.so
+[05:50:05] 
+
+[05:50:05]  ===============================
+
+[05:50:05]       sscanf plugin loaded.     
+
+[05:50:05]          Version:  2.8.2        
+
+[05:50:05]    (c) 2012 Alex "Y_Less" Cole  
+
+[05:50:05]  ===============================
+
+[05:50:05]   Loaded.
+[05:50:05]  Loaded 2 plugins.
+
+[05:50:05] 
+[05:50:05] Filterscripts
+[05:50:05] ---------------
+[05:50:05]   Loaded 0 filterscripts.
+
+[05:50:05] 
+----------------------------------
+[05:50:05]  Testing Script by sys_bloat
+[05:50:05] ----------------------------------
+
+[05:50:05] Number of vehicle models: 0
+[05:50:06] [connection] 108.50.160.204:64922 requests connection cookie.
+[05:50:06] [connection] 108.50.160.204:51726 requests connection cookie.
+[05:50:07] [connection] incoming connection: 108.50.160.204:64922 id: 0
+[05:50:07] [connection] incoming connection: 108.50.160.204:51726 id: 1
+[05:50:07] [join] rally3 has joined the server (0:108.50.160.204)
+[05:50:07] [join] tester1 has joined the server (1:108.50.160.204)
+[05:51:20] [connection] 156.196.117.66:54875 requests connection cookie.
+[05:51:21] [connection] incoming connection: 156.196.117.66:54875 id: 2
+[05:51:22] [join] [Lsrcr]Quiet has joined the server (2:156.196.117.66)
+[05:51:42] [chat] [[Lsrcr]Quiet]: hi
+[05:51:53] [chat] [rally3]: heya
+[05:52:03] [chat] [rally3]: playa coming i think
+[05:52:08] [chat] [rally3]: lml no answer
+[05:52:10] [chat] [rally3]: rip
+[05:52:13] [chat] [[Lsrcr]Quiet]: sure
+[05:52:15] [chat] [[Lsrcr]Quiet]: lets wait
+[05:52:18] [chat] [rally3]: give urself some ammo
+[05:52:20] [chat] [rally3]: m4
+[05:52:25] [chat] [rally3]: u gonna be my shooter
+[05:52:29] [chat] [rally3]: he's gonna be the one running away
+[05:52:35] [chat] [rally3]: and we gonna get a feel for the values
+[05:52:39] [chat] [rally3]: if they feel right/not,etc
+[05:52:47] [connection] 27.4.182.131:51362 requests connection cookie.
+[05:52:48] [connection] incoming connection: 27.4.182.131:51362 id: 3
+[05:52:50] [join] [Lsrcr]Playa has joined the server (3:27.4.182.131)
+[05:52:55] [chat] [rally3]: i think they will be fine
+[05:52:58] [chat] [rally3]: hey playa
+[05:52:59] [chat] [[Lsrcr]Playa]: Alrught
+[05:53:02] [chat] [[Lsrcr]Playa]: Whats up
+[05:53:03] [chat] [rally3]: hop down cutie
+[05:53:04] [chat] [[Lsrcr]Quiet]: aight
+[05:53:10] [chat] [rally3]: we testing the aim from roof nerf
+[05:53:12] [chat] [rally3]: suggestion
+[05:53:16] [chat] [[Lsrcr]Playa]: Ah 
+[05:53:17] [chat] [[Lsrcr]Playa]: lit
+[05:53:22] [chat] [rally3]:  use /v 560 to spawn urself a sultan
+[05:53:29] [chat] [rally3]: tester1 is my laptop account
+[05:53:33] [chat] [rally3]: quiet will be on my roof
+[05:53:43] [chat] [rally3]: and we'll test how the speed values affect accuracy
+[05:53:44] [chat] [rally3]: as of rn
+[05:53:48] [chat] [[Lsrcr]Playa]: Lit
+[05:53:49] [chat] [rally3]: quiet, m4 and roof pls bro
+[05:54:03] [chat] [rally3]:  ok 
+[05:54:04] [chat] [[Lsrcr]Quiet]: sure bro
+[05:54:04] [chat] [rally3]: go playa
+[05:54:05] [chat] [rally3]: escape
+[05:54:46] [chat] [[Lsrcr]Quiet]: slow down wtf
+[05:54:49] [chat] [[Lsrcr]Quiet]: it aint a race
+[05:54:50] [chat] [rally3]: no 
+[05:54:51] [chat] [[Lsrcr]Playa]: ah fuck
+[05:54:52] [chat] [rally3]: keep going fast
+[05:55:48] [chat] [rally3]: ok
+[05:55:51] [chat] [rally3]: i think that was good 
+[05:55:55] [chat] [rally3]: what do u guys think
+[05:55:59] [chat] [[Lsrcr]Quiet]: that would take so fucking long 
+[05:56:02] [chat] [[Lsrcr]Playa]: i think so too
+[05:56:06] [chat] [rally3]: its just one shooter
+[05:56:08] [chat] [rally3]: quiet
+[05:56:09] [chat] [rally3]: and also
+[05:56:11] [chat] [[Lsrcr]Playa]: harder for leos to get caught
+[05:56:17] [chat] [[Lsrcr]Playa]: i mean criminals*
+[05:56:17] [chat] [rally3]: it works both ways
+[05:56:22] [chat] [[Lsrcr]Playa]: I guess
+[05:56:24] [chat] [rally3]: it will be harder for leos to catch crims
+[05:56:27] [chat] [[Lsrcr]Playa]: yee
+[05:56:31] [chat] [rally3]: but it will be harder for crims to autistically cophunt
+[05:56:40] [chat] [rally3]: now you stay on his roof quiet
+[05:56:40] [chat] [[Lsrcr]Playa]: which is good
+[05:56:42] [chat] [[Lsrcr]Quiet]: maybe
+[05:56:43] [chat] [rally3]: and use another weapon
+[05:56:47] [chat] [rally3]: to get a feel for them
+[05:56:47] [chat] [[Lsrcr]Playa]: shit
+[05:56:50] [chat] [[Lsrcr]Playa]: i gtg, give me 15
+[05:56:51] [part] [Lsrcr]Playa has left the server (3:1)
+[05:56:55] [chat] [rally3]: meh
+[05:56:56] [chat] [rally3]: its fine
+[05:56:56] [chat] [[Lsrcr]Quiet]: best
+[05:56:57] [chat] [rally3]: dw
+[05:56:58] [chat] [rally3]: lmao
+[05:57:02] [chat] [rally3]: aight thanks a lot
+[05:57:06] [chat] [rally3]: i think these values are fine
+[05:57:12] [chat] [rally3]: an idea i have rn
+[05:57:17] [chat] [rally3]: is to invite several players
+[05:57:23] [chat] [rally3]: have some of them play as copt
+[05:57:27] [chat] [rally3]: some of them to play as crim
+[05:57:29] [chat] [rally3]: then swap
+[05:57:32] [chat] [rally3]: and get their opinions
+[05:57:37] [chat] [[Lsrcr]Quiet]: hmm
+[05:57:40] [chat] [[Lsrcr]Quiet]: invite pinoys and pakis
+[05:57:40] [chat] [rally3]: a big part of it right now is the bug of the driver
+[05:57:43] [chat] [[Lsrcr]Quiet]: best
+[05:57:44] [chat] [rally3]: ye no thanks
+[05:57:45] [chat] [rally3]: lmao
+[05:57:48] [chat] [[Lsrcr]Quiet]: and listen to their opinions
+[05:57:54] [chat] [[Lsrcr]Quiet]: +1 needed
+[05:57:57] [chat] [[Lsrcr]Quiet]: lmao
+[05:58:00] [chat] [rally3]: :killme:
+[05:58:02] [chat] [rally3]: xd
+[05:58:12] [chat] [rally3]: u could see to how while we were chasing
+[05:58:17] [chat] [rally3]: it said the speed we were going at
+[05:58:30] [chat] [rally3]: u didnt land too many shots when we were going .65 or more
+[05:58:41] [chat] [[Lsrcr]Quiet]: ye
+[05:58:45] [chat] [rally3]: lml gotta go school
+[05:58:45] [chat] [rally3]: xd
+[05:58:47] [chat] [rally3]: unluck
+[05:58:51] [chat] [[Lsrcr]Quiet]: he is a kid
+[05:58:53] [chat] [rally3]: anyways i think today was enough testing
+[05:58:55] [chat] [rally3]: thanks a lot lmao
+[05:59:03] [chat] [rally3]: ill work on trying to find a fix to the driver bug
+[05:59:13] [chat] [rally3]: i think once that's done, then the system will be good for inviting players
+[05:59:15] [chat] [rally3]: and beta testing it
+[05:59:31] [chat] [[Lsrcr]Quiet]: best
+[05:59:35] [chat] [rally3]: cause a big part of it too
+[05:59:40] [chat] [rally3]: is say u were shooting at playa
+[05:59:42] [chat] [rally3]: and not the car itself
+[05:59:50] [chat] [rally3]: regardless of how fast i was going or not
+[05:59:52] [chat] [[Lsrcr]Quiet]: it didnt did it?
+[05:59:55] [chat] [rally3]: u wouldn't have damaged him rightn ow
+[06:00:02] [chat] [rally3]: and thats the prob
+[06:00:04] [chat] [[Lsrcr]Quiet]: aight cya
+[06:00:05] [chat] [rally3]: u still supposed to damage
+[06:00:07] [chat] [rally3]: see ya
+[06:00:08] [chat] [rally3]: thanks again
+[06:00:09] [chat] [rally3]: bb
+[06:00:13] [part] rally3 has left the server (0:1)
+[06:00:13] [chat] [[Lsrcr]Quiet]: bb/
+[06:00:14] [part] [Lsrcr]Quiet has left the server (2:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[06:01:56] 
+[06:01:56] Server Plugins
+[06:01:56] --------------
+[06:01:56]  Loading plugin: pawncmd.so
+[06:01:56] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[06:01:56]   Loaded.
+[06:01:56]  Loading plugin: sscanf.so
+[06:01:56] 
+
+[06:01:56]  ===============================
+
+[06:01:56]       sscanf plugin loaded.     
+
+[06:01:56]          Version:  2.8.2        
+
+[06:01:56]    (c) 2012 Alex "Y_Less" Cole  
+
+[06:01:56]  ===============================
+
+[06:01:56]   Loaded.
+[06:01:56]  Loaded 2 plugins.
+
+[06:01:56] 
+[06:01:56] Filterscripts
+[06:01:56] ---------------
+[06:01:56]   Loaded 0 filterscripts.
+
+[06:01:56] 
+----------------------------------
+[06:01:56]  Testing Script by sys_bloat
+[06:01:56] ----------------------------------
+
+[06:01:56] Number of vehicle models: 0
+[06:01:57] [connection] 108.50.160.204:51732 requests connection cookie.
+[06:01:58] [connection] incoming connection: 108.50.160.204:51732 id: 0
+[06:01:58] [join] tester1 has joined the server (0:108.50.160.204)
+[06:02:58] [connection] 108.50.160.204:53292 requests connection cookie.
+[06:02:59] [connection] incoming connection: 108.50.160.204:53292 id: 1
+[06:03:00] [join] rally3 has joined the server (1:108.50.160.204)
+[06:03:18] [death] tester1 died 255
+[06:03:55] [death] tester1 died 255
+[06:04:21] [death] tester1 died 255
+[06:05:08] [death] tester1 died 255
+[06:05:23] [part] rally3 has left the server (1:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:45:04] 
+[15:45:04] Server Plugins
+[15:45:04] --------------
+[15:45:04]  Loading plugin: pawncmd.so
+[15:45:04] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[15:45:04]   Loaded.
+[15:45:04]  Loading plugin: sscanf.so
+[15:45:04] 
+
+[15:45:04]  ===============================
+
+[15:45:04]       sscanf plugin loaded.     
+
+[15:45:04]          Version:  2.8.2        
+
+[15:45:04]    (c) 2012 Alex "Y_Less" Cole  
+
+[15:45:04]  ===============================
+
+[15:45:04]   Loaded.
+[15:45:04]  Loaded 2 plugins.
+
+[15:45:04] 
+[15:45:04] Filterscripts
+[15:45:04] ---------------
+[15:45:04]   Loaded 0 filterscripts.
+
+[15:45:04] 
+----------------------------------
+[15:45:04]  Testing Script by sys_bloat
+[15:45:04] ----------------------------------
+
+[15:45:04] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:47:13] 
+[15:47:13] Server Plugins
+[15:47:13] --------------
+[15:47:13]  Loading plugin: pawncmd.so
+[15:47:13] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[15:47:13]   Loaded.
+[15:47:13]  Loading plugin: sscanf.so
+[15:47:13] 
+
+[15:47:13]  ===============================
+
+[15:47:13]       sscanf plugin loaded.     
+
+[15:47:13]          Version:  2.8.2        
+
+[15:47:13]    (c) 2012 Alex "Y_Less" Cole  
+
+[15:47:13]  ===============================
+
+[15:47:13]   Loaded.
+[15:47:13]  Loaded 2 plugins.
+
+[15:47:13] 
+[15:47:13] Filterscripts
+[15:47:13] ---------------
+[15:47:13]   Loaded 0 filterscripts.
+
+[15:47:13] 
+----------------------------------
+[15:47:13]  Testing Script by sys_bloat
+[15:47:13] ----------------------------------
+
+[15:47:13] Number of vehicle models: 0
+[15:47:34] [connection] 108.50.160.204:50718 requests connection cookie.
+[15:47:35] [connection] incoming connection: 108.50.160.204:50718 id: 0
+[15:47:36] [join] rally3 has joined the server (0:108.50.160.204)
+[15:47:37] [connection] 108.50.160.204:57277 requests connection cookie.
+[15:47:38] [connection] incoming connection: 108.50.160.204:57277 id: 1
+[15:48:07] [connection] 108.50.160.204:64625 requests connection cookie.
+[15:48:08] [connection] incoming connection: 108.50.160.204:64625 id: 1
+[15:48:09] [join] tester1 has joined the server (1:108.50.160.204)
+[15:48:18] [death] tester1 died 255
+[15:48:28] [death] tester1 died 255
+[15:48:44] [death] tester1 died 255
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:49:49] 
+[15:49:49] Server Plugins
+[15:49:49] --------------
+[15:49:49]  Loading plugin: pawncmd.so
+[15:49:49] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[15:49:49]   Loaded.
+[15:49:49]  Loading plugin: sscanf.so
+[15:49:49] 
+
+[15:49:49]  ===============================
+
+[15:49:49]       sscanf plugin loaded.     
+
+[15:49:49]          Version:  2.8.2        
+
+[15:49:49]    (c) 2012 Alex "Y_Less" Cole  
+
+[15:49:49]  ===============================
+
+[15:49:49]   Loaded.
+[15:49:49]  Loaded 2 plugins.
+
+[15:49:49] 
+[15:49:49] Filterscripts
+[15:49:49] ---------------
+[15:49:49]   Loaded 0 filterscripts.
+
+[15:49:49] 
+----------------------------------
+[15:49:49]  Testing Script by sys_bloat
+[15:49:49] ----------------------------------
+
+[15:49:49] Number of vehicle models: 0
+[15:49:50] [connection] 108.50.160.204:54268 requests connection cookie.
+[15:49:51] [connection] incoming connection: 108.50.160.204:54268 id: 0
+[15:49:51] [join] tester1 has joined the server (0:108.50.160.204)
+[15:49:57] [connection] 108.50.160.204:52979 requests connection cookie.
+[15:49:58] [connection] incoming connection: 108.50.160.204:52979 id: 1
+[15:49:58] [join] rally3 has joined the server (1:108.50.160.204)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:15:26] 
+[16:15:26] Server Plugins
+[16:15:26] --------------
+[16:15:26]  Loading plugin: pawncmd.so
+[16:15:26] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[16:15:26]   Loaded.
+[16:15:26]  Loading plugin: sscanf.so
+[16:15:26] 
+
+[16:15:26]  ===============================
+
+[16:15:26]       sscanf plugin loaded.     
+
+[16:15:26]          Version:  2.8.2        
+
+[16:15:26]    (c) 2012 Alex "Y_Less" Cole  
+
+[16:15:26]  ===============================
+
+[16:15:26]   Loaded.
+[16:15:26]  Loaded 2 plugins.
+
+[16:15:26] 
+[16:15:26] Filterscripts
+[16:15:26] ---------------
+[16:15:26]   Loaded 0 filterscripts.
+
+[16:15:26] 
+----------------------------------
+[16:15:26]  Testing Script by sys_bloat
+[16:15:26] ----------------------------------
+
+[16:15:26] Number of vehicle models: 0
+[16:15:27] [connection] 108.50.160.204:63609 requests connection cookie.
+[16:15:28] [connection] incoming connection: 108.50.160.204:63609 id: 0
+[16:15:28] [join] tester1 has joined the server (0:108.50.160.204)
+[16:15:37] [connection] 108.50.160.204:61281 requests connection cookie.
+[16:15:38] [connection] incoming connection: 108.50.160.204:61281 id: 1
+[16:15:38] [join] rally3 has joined the server (1:108.50.160.204)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:23:31] 
+[16:23:31] Server Plugins
+[16:23:31] --------------
+[16:23:31]  Loading plugin: pawncmd.so
+[16:23:31] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[16:23:31]   Loaded.
+[16:23:31]  Loading plugin: sscanf.so
+[16:23:31] 
+
+[16:23:31]  ===============================
+
+[16:23:31]       sscanf plugin loaded.     
+
+[16:23:31]          Version:  2.8.2        
+
+[16:23:31]    (c) 2012 Alex "Y_Less" Cole  
+
+[16:23:31]  ===============================
+
+[16:23:31]   Loaded.
+[16:23:31]  Loaded 2 plugins.
+
+[16:23:31] 
+[16:23:31] Filterscripts
+[16:23:31] ---------------
+[16:23:31]   Loaded 0 filterscripts.
+
+[16:23:31] 
+----------------------------------
+[16:23:31]  Testing Script by sys_bloat
+[16:23:31] ----------------------------------
+
+[16:23:31] Number of vehicle models: 0
+[16:23:32] [connection] 108.50.160.204:63627 requests connection cookie.
+[16:23:33] [connection] incoming connection: 108.50.160.204:63627 id: 0
+[16:23:34] [join] tester1 has joined the server (0:108.50.160.204)
+[16:24:35] [connection] 108.50.160.204:50807 requests connection cookie.
+[16:24:36] [connection] incoming connection: 108.50.160.204:50807 id: 1
+[16:24:37] [join] rally3 has joined the server (1:108.50.160.204)
+[16:24:52] [connection] 197.3.115.49:59776 requests connection cookie.
+[16:24:53] [connection] incoming connection: 197.3.115.49:59776 id: 2
+[16:24:54] [join] Odeim has joined the server (2:197.3.115.49)
+[16:25:01] [chat] [rally3]: heya
+[16:25:04] [chat] [Odeim]: oi
+[16:25:10] [chat] [rally3]: so now essentially it works like this
+[16:25:11] [chat] [Odeim]: who is this fela
+[16:25:12] [chat] [Odeim]: a bot
+[16:25:15] [chat] [rally3]: my laptop
+[16:25:17] [connection] 27.4.182.131:62283 requests connection cookie.
+[16:25:17] [chat] [Odeim]: ooh
+[16:25:18] [connection] incoming connection: 27.4.182.131:62283 id: 3
+[16:25:19] [join] [Lsrcr]Playa has joined the server (3:27.4.182.131)
+[16:25:24] [chat] [rally3]: now it works like this
+[16:25:26] [chat] [rally3]: 2 overall scenarios
+[16:25:27] [chat] [[Lsrcr]Playa]: sup
+[16:25:32] [chat] [Odeim]:  sup playa
+[16:25:33] [chat] [rally3]: shooter is car surfing, or shooter is not
+[16:25:39] [chat] [rally3]: if shooter is not, damage is as normal
+[16:25:46] [chat] [Odeim]:  yeah
+[16:25:50] [chat] [rally3]: if he is, then the system takes over
+[16:25:59] [chat] [rally3]: now there's 2 scenarios within that that matter
+[16:26:03] [chat] [rally3]: 1) hitting a vehicle
+[16:26:09] [chat] [rally3]: 2) hitting a player inside a vehicle
+[16:26:12] [chat] [[Lsrcr]Playa]: aha
+[16:26:14] [chat] [rally3]: 3) hitting a player outside of a vehicle
+[16:26:14] [chat] [Odeim]:  wow
+[16:26:22] [chat] [rally3]: the only one that works well now, is hitting a player outside a vehicle
+[16:26:23] [chat] [Odeim]: i did not think about this at all
+[16:26:25] [chat] [Odeim]: you're amazing
+[16:26:32] [chat] [[Lsrcr]Playa]: gay
+[16:26:33] [chat] [rally3]:  /w 31 
+[16:26:35] [chat] [Odeim]: so hitting a player inside a vehicle
+[16:26:37] [chat] [rally3]: spam it a bunch to get m4
+[16:26:40] [chat] [Odeim]: is not working
+[16:26:47] [chat] [rally3]: no, cause of a samp bug
+[16:26:50] [chat] [rally3]: but i have a workaround
+[16:26:55] [chat] [rally3]: shoot playa's car
+[16:26:56] [chat] [rally3]: not him
+[16:26:59] [chat] [rally3]: a bit now
+[16:27:09] [chat] [[Lsrcr]Playa]: alright
+[16:27:11] [chat] [rally3]: see it says hit vehicle while surfing
+[16:27:11] [chat] [Odeim]: "hit vehicle while car surfing"
+[16:27:12] [chat] [[Lsrcr]Playa]: do you want me to begin
+[16:27:15] [chat] [rally3]: try to hit him now
+[16:27:16] [chat] [rally3]: dont move
+[16:27:27] [chat] [rally3]: see it hits hiim, but it still calls a vehicle_hit
+[16:27:32] [chat] [Odeim]: aaaa
+[16:27:33] [chat] [rally3]: thats a samp bug known for a long time
+[16:27:43] [chat] [rally3]: tried to fix it in their code by reverse engineering it
+[16:27:47] [chat] [rally3]: wasted 2 weeks on it, no case
+[16:27:49] [chat] [rally3]: so
+[16:28:01] [chat] [rally3]: just wanted u to see that, and tell you my "work around" we can try now
+[16:28:06] [chat] [rally3]: the workaround will be this
+[16:28:20] [chat] [rally3]: once that vehicle_id is detected, onplayerweapon shot will act as normal
+[16:28:26] [chat] [rally3]: as in, as u could see now, it will deal damage
+[16:28:40] [chat] [rally3]: however, we will detect on our own if that damage was a player or a vehicle itself
+[16:28:54] [chat] [rally3]: if it was a vehicle, then before the damage is applied we can give the extra hp to the vehicle
+[16:29:00] [chat] [rally3]: so when it gets shot it gets put to the right amount
+[16:29:02] [chat] [Odeim]: oooooooof
+[16:29:07] [chat] [rally3]: tough to explain, ill do it now and we can test
+[16:29:15] [chat] [rally3]: no need to leave the server, upon reset it will log u back in 
+[16:29:15] [chat] [[Lsrcr]Playa]: copy that sergeant 
+[16:29:15] [chat] [Odeim]: AIGHT LETS DO IT PLAYA
+[16:29:16] [chat] [Odeim]: MOVE
+[16:29:24] [chat] [[Lsrcr]Playa]: YES SIR
+[16:29:26] [chat] [[Lsrcr]Playa]: LETS GO
+[16:29:29] [chat] [tester1]: ftw i can still read/talk here so if u need to ttalk talk thru here
+[16:29:35] [chat] [[Lsrcr]Playa]: oh lmao
+[16:29:43] [chat] [Odeim]: oh fuck i forgot about our little bot
+[16:29:47] [chat] [[Lsrcr]Playa]: lmao
+[16:30:01] [chat] [Odeim]: but wait
+[16:30:05] [chat] [Odeim]: if i shoot playa right now
+[16:30:13] [chat] [tester1]: damage now is being passed normally
+[16:30:20] [chat] [Odeim]: there is no blood coming out of him lmao
+[16:30:21] [chat] [tester1]: since i took out the whole thingy
+[16:30:30] [chat] [Odeim]: as if the bullet did not hit him
+[16:30:32] [chat] [[Lsrcr]Playa]: 
+[16:30:32] [chat] [tester1]: ill show u sth
+[16:30:41] [chat] [rally3]: get on my roof odeim
+[16:30:47] [chat] [rally3]: try shooting the lap account
+[16:30:59] [chat] [rally3]: should say "player damage was"
+[16:30:59] [chat] [Odeim]: player damage was
+[16:31:01] [chat] [rally3]: or sth right
+[16:31:02] [chat] [rally3]: aight cool
+[16:31:03] [chat] [Odeim]: yeah
+[16:31:11] [chat] [[Lsrcr]Playa]: it didnt say what the damage was though
+[16:31:15] [chat] [rally3]: ye ik
+[16:31:16] [chat] [Odeim]: DETAILS
+[16:31:17] [chat] [rally3]: didnt put that 
+[16:31:19] [chat] [rally3]: no need
+[16:31:23] [chat] [Odeim]: WE KNOW THAT IT WORKS
+[16:31:25] [chat] [rally3]: if i move though
+[16:31:44] [chat] [rally3]: it should give it a multiplier
+[16:31:47] [chat] [rally3]: lemme check in code sec
+[16:31:55] [chat] [Odeim]: a multiplier damage?
+[16:32:08] [chat] [rally3]: aight
+[16:32:11] [chat] [Odeim]: bitch do u wanna die
+[16:32:12] [chat] [rally3]: so while i move the car
+[16:32:16] [chat] [[Lsrcr]Playa]: die whore\
+[16:32:17] [chat] [rally3]: the damage on the laptop should be less
+[16:32:31] [chat] [Odeim]: wow
+[16:32:33] [chat] [Odeim]: alot 
+[16:32:38] [chat] [rally3]: shoot still now
+[16:32:40] [chat] [Odeim]: he didnt take alot damage
+[16:32:43] [chat] [rally3]: 100# land if still
+[16:32:56] [chat] [rally3]: see
+[16:32:59] [chat] [Odeim]: he did not take any damage wtf
+[16:33:00] [chat] [rally3]: so that case works fine
+[16:33:03] [chat] [Odeim]: so the multipier
+[16:33:04] [chat] [Odeim]: is low
+[16:33:10] [chat] [rally3]: its proportional to the vehicle speed
+[16:33:18] [chat] [rally3]: we had it yesterday with the speed of the car
+[16:33:22] [chat] [[Lsrcr]Playa]: thats cool
+[16:33:23] [chat] [rally3]: and its mostly b/w [0, 1]
+[16:33:40] [chat] [rally3]: and now that i think of it
+[16:33:45] [chat] [rally3]: a complication will be that if you hit a player
+[16:33:49] [chat] [rally3]: inside a vehicle
+[16:33:59] [chat] [rally3]: and we just blindly give a bit more hp to the vehicle
+[16:34:03] [chat] [rally3]: it may not be taken out
+[16:34:07] [chat] [rally3]: like 
+[16:34:10] [chat] [rally3]: ill do it and then we can see 
+[16:34:15] [chat] [rally3]: easier to show than talk about it
+[16:34:18] [chat] [Odeim]: wait
+[16:34:22] [chat] [Odeim]: i understand what u said
+[16:34:30] [chat] [Odeim]: but isnt staying inside a car
+[16:34:36] [chat] [Odeim]: should reset everything back to normal?
+[16:34:42] [chat] [Odeim]: thats what i said,right?
+[16:35:11] [chat] [Odeim]: like dont give hp to the vehicle
+[16:35:13] [chat] [Odeim]: sec afk
+[16:35:40] [chat] [[Lsrcr]Playa]: i got a better idea, just remove car surfind
+[16:35:44] [chat] [[Lsrcr]Playa]: surfing*
+[16:35:47] [chat] [[Lsrcr]Playa]: problem solved.
+[16:35:52] [chat] [[Lsrcr]Playa]: its unrealistic af.
+[16:36:30] [chat] [tester1]: i dont know what odeim meant
+[16:36:38] [chat] [tester1]: "should reset everything to normal"
+[16:36:49] [chat] [[Lsrcr]Playa]: i didnt get that part either
+[16:37:01] [chat] [[Lsrcr]Playa]: Honestly what do you think?
+[16:37:10] [chat] [[Lsrcr]Playa]: isnt car surfing fucking unrealistic?
+[16:37:21] [chat] [Odeim]: no u noob
+[16:37:25] [chat] [tester1]: car surfing is enjoyable for some players, but this would make it a bit more realistic
+[16:37:31] [chat] [tester1]: and balanced
+[16:37:39] [chat] [[Lsrcr]Playa]: i guess
+[16:37:46] [chat] [Odeim]: rally,the "multiplier damage" or smth
+[16:37:57] [chat] [Odeim]: should not be there when you stay inside the car
+[16:38:14] [chat] [[Lsrcr]Playa]: seeyonara
+[16:38:18] [kill] [Lsrcr]Playa killed Odeim AK47
+[16:38:20] [chat] [Odeim]:  aaaaaaaaaa
+[16:38:20] [chat] [[Lsrcr]Playa]: q/q
+[16:38:23] [chat] [[Lsrcr]Playa]: oops.
+[16:38:47] [chat] [[Lsrcr]Playa]: see ya soon
+[16:38:47] [part] [Lsrcr]Playa has left the server (3:1)
+[16:38:52] [chat] [Odeim]:  what u mean
+[16:38:53] [chat] [Odeim]: he left
+[16:38:54] [chat] [Odeim]: what
+[16:39:30] [chat] [tester1]: xd
+[16:39:32] [chat] [tester1]: dw
+[16:39:36] [chat] [tester1]: one sec, updating the code
+[16:39:42] [chat] [Odeim]: am should leav
+[16:39:44] [chat] [Odeim]: or smth
+[16:40:28] [chat] [tester1]: anh
+[16:40:29] [chat] [tester1]: nah
+[16:40:31] [chat] [tester1]: 5 min tops
+[16:40:35] [chat] [tester1]: u c an go afk if u want
+[16:40:39] [chat] [tester1]: ill hit u up in discord
+[16:40:48] [chat] [Odeim]: wow 5 min to update itself
+[16:40:52] [chat] [Odeim]: :clap:
+[16:41:06] [chat] [Odeim]:  wait
+[16:43:42] [chat] [tester1]: no not the server but the code
+[16:43:44] [chat] [tester1]: xd
+[16:43:52] [chat] [Odeim]:  lmao
+[16:45:01] [chat] [tester1]: aight think i got something to test
+[16:45:04] [chat] [tester1]: reloading
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:45:43] 
+[16:45:43] Server Plugins
+[16:45:43] --------------
+[16:45:43]  Loading plugin: pawncmd.so
+[16:45:43] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[16:45:43]   Loaded.
+[16:45:43]  Loading plugin: sscanf.so
+[16:45:43] 
+
+[16:45:43]  ===============================
+
+[16:45:43]       sscanf plugin loaded.     
+
+[16:45:43]          Version:  2.8.2        
+
+[16:45:43]    (c) 2012 Alex "Y_Less" Cole  
+
+[16:45:43]  ===============================
+
+[16:45:43]   Loaded.
+[16:45:43]  Loaded 2 plugins.
+
+[16:45:43] 
+[16:45:43] Filterscripts
+[16:45:43] ---------------
+[16:45:43]   Loaded 0 filterscripts.
+
+[16:45:43] 
+----------------------------------
+[16:45:43]  Testing Script by sys_bloat
+[16:45:43] ----------------------------------
+
+[16:45:43] Number of vehicle models: 0
+[16:45:44] [connection] 108.50.160.204:54081 requests connection cookie.
+[16:45:45] [connection] incoming connection: 108.50.160.204:54081 id: 0
+[16:45:46] [join] tester1 has joined the server (0:108.50.160.204)
+[16:45:48] [connection] 108.50.160.204:58363 requests connection cookie.
+[16:45:49] [connection] incoming connection: 108.50.160.204:58363 id: 1
+[16:45:49] [join] rally3 has joined the server (1:108.50.160.204)
+[16:46:09] [connection] 197.3.115.49:50243 requests connection cookie.
+[16:46:10] [connection] incoming connection: 197.3.115.49:50243 id: 2
+[16:46:11] [join] Odeim has joined the server (2:197.3.115.49)
+[16:46:21] [chat] [rally3]: heya
+[16:46:24] [chat] [Odeim]: heya
+[16:46:49] [chat] [tester1]: ok so i have the code on the side
+[16:46:52] [chat] [tester1]: so we can see
+[16:47:07] [chat] [rally3]: hop on my roof
+[16:47:11] [chat] [rally3]: try to damage me a bit
+[16:47:14] [chat] [Odeim]: who
+[16:47:16] [chat] [Odeim]: tester?
+[16:47:19] [chat] [rally3]: i say me = me
+[16:47:22] [chat] [rally3]: laptop = tester
+[16:47:49] [chat] [rally3]: its taking the damage out of the vehicle
+[16:47:50] [chat] [rally3]: but not me
+[16:47:53] [chat] [rally3]: weird
+[16:47:54] [chat] [rally3]: sec
+[16:48:20] [chat] [rally3]: ooh i ssee lmao
+[16:48:22] [chat] [rally3]: im retarded
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:48:57] 
+[16:48:57] Server Plugins
+[16:48:57] --------------
+[16:48:57]  Loading plugin: pawncmd.so
+[16:48:57] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[16:48:57]   Loaded.
+[16:48:57]  Loading plugin: sscanf.so
+[16:48:57] 
+
+[16:48:57]  ===============================
+
+[16:48:57]       sscanf plugin loaded.     
+
+[16:48:57]          Version:  2.8.2        
+
+[16:48:57]    (c) 2012 Alex "Y_Less" Cole  
+
+[16:48:57]  ===============================
+
+[16:48:57]   Loaded.
+[16:48:57]  Loaded 2 plugins.
+
+[16:48:57] 
+[16:48:57] Filterscripts
+[16:48:57] ---------------
+[16:48:57]   Loaded 0 filterscripts.
+
+[16:48:57] 
+----------------------------------
+[16:48:57]  Testing Script by sys_bloat
+[16:48:57] ----------------------------------
+
+[16:48:57] Number of vehicle models: 0
+[16:48:57] [connection] 108.50.160.204:59587 requests connection cookie.
+[16:48:58] [connection] incoming connection: 108.50.160.204:59587 id: 0
+[16:48:59] [join] tester1 has joined the server (0:108.50.160.204)
+[16:48:59] [connection] 108.50.160.204:51829 requests connection cookie.
+[16:49:00] [connection] incoming connection: 108.50.160.204:51829 id: 1
+[16:49:01] [join] rally3 has joined the server (1:108.50.160.204)
+[16:49:22] [connection] 197.3.115.49:55687 requests connection cookie.
+[16:49:23] [connection] incoming connection: 197.3.115.49:55687 id: 2
+[16:49:24] [join] Odeim has joined the server (2:197.3.115.49)
+[16:49:24] [part] Odeim has left the server (2:1)
+[16:49:47] [connection] 197.3.115.49:63463 requests connection cookie.
+[16:49:48] [connection] incoming connection: 197.3.115.49:63463 id: 2
+[16:49:48] [join] Odeim has joined the server (2:197.3.115.49)
+[16:49:55] [chat] [rally3]: ayy
+[16:50:01] [chat] [Odeim]:  ayy
+[16:50:02] [chat] [Odeim]: so
+[16:50:03] [chat] [rally3]: lets redo it now xd
+[16:50:05] [chat] [Odeim]: should i start
+[16:50:12] [chat] [rally3]: wtf
+[16:50:13] [chat] [rally3]: xd
+[16:50:20] [chat] [Odeim]: its not taking damage
+[16:50:29] [chat] [Odeim]: guess big fail
+[16:50:30] [chat] [rally3]: i think i compiled
+[16:50:30] [chat] [rally3]: sec
+[16:51:41] [chat] [tester1]: putting a debug string
+[16:51:44] [chat] [tester1]: reloading
+[16:51:46] [part] Odeim has left the server (2:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:52:05] 
+[16:52:05] Server Plugins
+[16:52:05] --------------
+[16:52:05]  Loading plugin: pawncmd.so
+[16:52:05] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[16:52:05]   Loaded.
+[16:52:05]  Loading plugin: sscanf.so
+[16:52:05] 
+
+[16:52:05]  ===============================
+
+[16:52:05]       sscanf plugin loaded.     
+
+[16:52:05]          Version:  2.8.2        
+
+[16:52:05]    (c) 2012 Alex "Y_Less" Cole  
+
+[16:52:05]  ===============================
+
+[16:52:05]   Loaded.
+[16:52:05]  Loaded 2 plugins.
+
+[16:52:05] 
+[16:52:05] Filterscripts
+[16:52:05] ---------------
+[16:52:05]   Loaded 0 filterscripts.
+
+[16:52:05] 
+----------------------------------
+[16:52:05]  Testing Script by sys_bloat
+[16:52:05] ----------------------------------
+
+[16:52:05] Number of vehicle models: 0
+[16:52:14] [connection] 108.50.160.204:59588 requests connection cookie.
+[16:52:15] [connection] incoming connection: 108.50.160.204:59588 id: 0
+[16:52:15] [join] tester1 has joined the server (0:108.50.160.204)
+[16:52:16] [connection] 108.50.160.204:62211 requests connection cookie.
+[16:52:17] [connection] incoming connection: 108.50.160.204:62211 id: 1
+[16:52:17] [join] rally3 has joined the server (1:108.50.160.204)
+[16:52:41] [connection] 197.3.115.49:60410 requests connection cookie.
+[16:52:42] [connection] incoming connection: 197.3.115.49:60410 id: 2
+[16:52:42] [join] Odeim has joined the server (2:197.3.115.49)
+[16:52:54] [chat] [Odeim]:  am here
+[16:52:55] [chat] [rally3]: now it shouldnt work but a little debug string should come up
+[16:52:58] [chat] [rally3]: try again
+[16:53:11] [chat] [rally3]: ye its setting ur dmg multiplier
+[16:53:16] [chat] [Odeim]: yeah
+[16:53:20] [chat] [rally3]: weird
+[16:53:22] [chat] [rally3]: let me see
+[16:53:25] [chat] [Odeim]: "was set to 0.00"
+[16:53:31] [chat] [Odeim]: its giving u armor
+[16:53:32] [chat] [Odeim]: lmao
+[16:53:52] [chat] [rally3]: i know what it is
+[16:53:56] [chat] [rally3]: id 2 is the vehicle
+[16:54:02] [chat] [rally3]: taking it as vehicle_hit
+[16:54:07] [chat] [rally3]: so its putting it for a vehicle
+[16:54:09] [chat] [rally3]: and not my id
+[16:54:14] [chat] [Odeim]:  wow
+[16:54:18] [chat] [Odeim]:  one little 
+[16:54:20] [chat] [Odeim]:  mistake
+[16:54:21] [chat] [Odeim]: messes up
+[16:54:24] [chat] [rally3]: now how to change it 
+[16:54:27] [chat] [Odeim]: the whole dmgmultiplier
+[16:54:30] [chat] [rally3]: cause u may be hitting a passenger
+[16:54:34] [chat] [rally3]: not necessarily a driver
+[16:54:58] [chat] [Odeim]:  ok imma wait for u
+[16:55:03] [chat] [rally3]: nah, this may take a while
+[16:55:07] [chat] [rally3]: complicated to think of it
+[16:55:09] [chat] [rally3]: scenario is this
+[16:55:14] [chat] [Odeim]:  so should i leave
+[16:55:22] [chat] [rally3]: sure, but i can share the problem
+[16:55:29] [chat] [rally3]: the situation is this
+[16:55:35] [chat] [rally3]: when u shoot me in a vehicle right now
+[16:55:52] [chat] [rally3]: it doesnt pick up my id 
+[16:55:54] [chat] [rally3]: as the hitid
+[16:55:58] [chat] [rally3]: it picks up the vehicle id
+[16:55:58] [chat] [Odeim]:  its picks up
+[16:56:00] [chat] [Odeim]: the vehicle id
+[16:56:02] [chat] [Odeim]:  right
+[16:56:11] [chat] [Odeim]:  it thinks the vehicle
+[16:56:13] [chat] [rally3]: the problem with that, is that there's no way to differentiate what player you hit
+[16:56:14] [chat] [Odeim]: as a target
+[16:56:17] [chat] [Odeim]: instead of u 
+[16:56:18] [chat] [rally3]: and theres more than one seat on vehicles
+[16:56:28] [chat] [Odeim]:  holy
+[16:56:30] [chat] [Odeim]:  is that the problem
+[16:56:32] [chat] [rally3]: to implement this well, i'd have to fix the bug within samp itself
+[16:56:39] [chat] [rally3]: which is what i wasted 2 weeks on last time
+[16:56:44] [chat] [Odeim]:  and probably wont get fixed..
+[16:57:01] [chat] [rally3]: oh well
+[16:57:06] [chat] [rally3]: was fun while it lasted
+[16:57:16] [chat] [Odeim]: shiit wish i know game programming
+[16:57:19] [chat] [Odeim]: double the effort
+[16:57:22] [chat] [Odeim]: knew*
+[16:57:39] [chat] [rally3]: i'll spend some of my free time trying to fix that samp bug
+[16:57:44] [chat] [rally3]: but chances are i wont fix it 
+[16:57:53] [chat] [rally3]: its related to how gta sa stores a player pointer
+[16:57:58] [chat] [rally3]: when u enter a car
+[16:58:01] [chat] [Odeim]:  so think about a workaround or something
+[16:58:02] [chat] [rally3]:  u know what pointers are right
+[16:58:07] [chat] [Odeim]:  hitboxes?
+[16:58:08] [chat] [Odeim]:  lmao
+[16:58:10] [chat] [Odeim]:  i dunno
+[16:58:34] [chat] [rally3]: well its something that points to something else in memory
+[16:58:37] [chat] [rally3]: when u enter a car
+[16:58:40] [chat] [rally3]: either as vehicle/passenger
+[16:58:46] [chat] [rally3]: the pointer points to the vehicle itself
+[16:58:50] [chat] [rally3]: and not to your player struct
+[16:58:53] [chat] [Odeim]: oooh u talking about "code"
+[16:58:55] [chat] [rally3]: yes
+[16:59:00] [chat] [rally3]: gta sa 
+[16:59:09] [chat] [rally3]: so that was the issue i ran into lass time
+[16:59:12] [chat] [rally3]: last time
+[16:59:18] [chat] [rally3]: it was always passing the function the samp guys made
+[16:59:22] [chat] [Odeim]:  there must be something for it
+[16:59:22] [chat] [rally3]: the vehicle pointer
+[16:59:24] [chat] [Odeim]: on the internet
+[16:59:27] [chat] [rally3]: no lmao
+[16:59:32] [chat] [Odeim]:  ._.
+[16:59:34] [chat] [rally3]: i was the only one trying to fix it 
+[16:59:39] [chat] [rally3]: even in the samp forum discord
+[16:59:47] [chat] [rally3]: it was just taken as a common bug and thats it
+[16:59:55] [chat] [rally3]: probably for a good reason since its related to gta sa's code 
+[17:00:01] [chat] [Odeim]: and nobody even thought about fixing it
+[17:00:15] [chat] [Odeim]:  fuk am hungry af
+[17:00:18] [chat] [rally3]: well the entire rest of the samp architecture is done around that
+[17:00:27] [chat] [rally3]: so it wouldn't work to do soemthing too drastic
+[17:00:35] [chat] [rally3]: so i think this idea, although interesting
+[17:00:38] [chat] [rally3]: wouldn't really work
+[17:00:42] [chat] [rally3]:  r i p
+[17:00:47] [chat] [Odeim]:  rip idea
+[17:00:52] [chat] [Odeim]:  actually
+[17:00:54] [chat] [rally3]: well u know a suggestion that would
+[17:00:56] [chat] [Odeim]:  i hopped in cb server
+[17:00:57] [chat] [rally3]: work
+[17:01:00] [chat] [Odeim]:  they implemented it very well
+[17:01:10] [chat] [rally3]: the decreased aim one?
+[17:01:14] [chat] [Odeim]:  yeah
+[17:01:20] [chat] [rally3]: how u know it was implemented
+[17:01:34] [chat] [Odeim]: i was teaming with cops
+[17:01:37] [chat] [Odeim]: i was standing
+[17:01:42] [chat] [Odeim]: car surfing
+[17:01:44] [chat] [Odeim]: it says
+[17:01:53] [chat] [rally3]: wanna join in their server and show me?
+[17:01:57] [chat] [Odeim]: "weapon aim accuracy will get deacreased"
+[17:02:07] [chat] [rally3]: well thats just a message lmao
+[17:02:12] [chat] [rally3]: i can print that now and still do nothing
+[17:02:19] [chat] [Odeim]:  but i think it works
+[17:02:25] [chat] [rally3]: wanna test it over there?
+[17:02:26] [chat] [Odeim]:  right now they reset everything
+[17:02:31] [chat] [Odeim]:  i dont have weapons
+[17:02:34] [chat] [Odeim]: as a cop
+[17:02:39] [chat] [rally3]: wym
+[17:02:46] [chat] [Odeim]:  they did an update
+[17:02:49] [chat] [Odeim]: like "life reset
+[17:02:53] [chat] [rally3]: oh
+[17:02:59] [chat] [Odeim]:  fuking poggers
+[17:03:00] [chat] [rally3]: so how did u test
+[17:03:01] [chat] [rally3]: xd
+[17:03:06] [chat] [Odeim]: before the update .____.
+[17:03:10] [chat] [rally3]: oh lmao
+[17:03:26] [chat] [rally3]: i'll go and see if i can check it out
+[17:03:28] [chat] [rally3]: wanna come?
+[17:03:31] [chat] [Odeim]: na
+[17:03:33] [chat] [Odeim]: imma eat
+[17:03:33] [chat] [rally3]: aight
+[17:03:35] [chat] [rally3]: see ya
+[17:03:35] [chat] [rally3]: thanks
+[17:03:36] [chat] [Odeim]:  see ya
+[17:03:38] [part] rally3 has left the server (1:1)
+[17:03:40] [chat] [Odeim]: np
+[17:03:40] [part] Odeim has left the server (2:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:33:09] 
+[20:33:09] Server Plugins
+[20:33:09] --------------
+[20:33:09]  Loading plugin: pawncmd.so
+[20:33:09] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[20:33:09]   Loaded.
+[20:33:09]  Loading plugin: sscanf.so
+[20:33:09] 
+
+[20:33:09]  ===============================
+
+[20:33:09]       sscanf plugin loaded.     
+
+[20:33:09]          Version:  2.8.2        
+
+[20:33:09]    (c) 2012 Alex "Y_Less" Cole  
+
+[20:33:09]  ===============================
+
+[20:33:09]   Loaded.
+[20:33:09]  Loaded 2 plugins.
+
+[20:33:09] 
+[20:33:09] Filterscripts
+[20:33:09] ---------------
+[20:33:09]   Loaded 0 filterscripts.
+
+[20:33:09] 
+----------------------------------
+[20:33:09]  Testing Script by sys_bloat
+[20:33:09] ----------------------------------
+
+[20:33:09] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[13:42:37] 
+[13:42:37] Server Plugins
+[13:42:37] --------------
+[13:42:37]  Loading plugin: pawncmd.so
+[13:42:37] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[13:42:37]   Loaded.
+[13:42:37]  Loading plugin: sscanf.so
+[13:42:37] 
+
+[13:42:37]  ===============================
+
+[13:42:37]       sscanf plugin loaded.     
+
+[13:42:37]          Version:  2.8.2        
+
+[13:42:37]    (c) 2012 Alex "Y_Less" Cole  
+
+[13:42:37]  ===============================
+
+[13:42:37]   Loaded.
+[13:42:37]  Loaded 2 plugins.
+
+[13:42:37] 
+[13:42:37] Filterscripts
+[13:42:37] ---------------
+[13:42:37]   Loaded 0 filterscripts.
+
+[13:42:37] 
+----------------------------------
+[13:42:37]  Testing Script by sys_bloat
+[13:42:37] ----------------------------------
+
+[13:42:37] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[13:50:31] 
+[13:50:31] Server Plugins
+[13:50:31] --------------
+[13:50:31]  Loading plugin: pawncmd.so
+[13:50:31] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[13:50:31]   Loaded.
+[13:50:31]  Loading plugin: sscanf.so
+[13:50:31] 
+
+[13:50:31]  ===============================
+
+[13:50:31]       sscanf plugin loaded.     
+
+[13:50:31]          Version:  2.8.2        
+
+[13:50:31]    (c) 2012 Alex "Y_Less" Cole  
+
+[13:50:31]  ===============================
+
+[13:50:31]   Loaded.
+[13:50:31]  Loaded 2 plugins.
+
+[13:50:31] Unable to start server on 92.42.45.218:7777. Port in use?
+[13:50:31] 
+[13:50:31] Filterscripts
+[13:50:31] ---------------
+[13:50:31]   Loaded 0 filterscripts.
+
+[13:50:31] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[13:53:39] 
+[13:53:39] Server Plugins
+[13:53:39] --------------
+[13:53:39]  Loading plugin: pawncmd.so
+[13:53:39] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[13:53:39]   Loaded.
+[13:53:39]  Loading plugin: sscanf.so
+[13:53:39] 
+
+[13:53:39]  ===============================
+
+[13:53:39]       sscanf plugin loaded.     
+
+[13:53:39]          Version:  2.8.2        
+
+[13:53:39]    (c) 2012 Alex "Y_Less" Cole  
+
+[13:53:39]  ===============================
+
+[13:53:39]   Loaded.
+[13:53:39]  Loaded 2 plugins.
+
+[13:53:39] 
+[13:53:39] Filterscripts
+[13:53:39] ---------------
+[13:53:39]   Loaded 0 filterscripts.
+
+[13:53:39] 
+----------------------------------
+[13:53:39]  Testing Script by sys_bloat
+[13:53:39] ----------------------------------
+
+[13:53:39] Number of vehicle models: 0
+[13:55:00] [connection] 108.50.160.204:58704 requests connection cookie.
+[13:55:01] [connection] incoming connection: 108.50.160.204:58704 id: 0
+[13:55:02] [join] rally3 has joined the server (0:108.50.160.204)
+[13:57:16] [part] rally3 has left the server (0:1)
+[18:52:29] [connection] 166.172.63.118:41560 requests connection cookie.
+[18:52:30] [connection] incoming connection: 166.172.63.118:41560 id: 0
+[18:52:31] [join] testing1 has joined the server (0:166.172.63.118)
+[18:52:46] [chat] [testing1]: eohjeajkhae
+[18:54:21] [part] testing1 has left the server (0:0)

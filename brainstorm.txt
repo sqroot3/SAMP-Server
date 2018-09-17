@@ -1,0 +1,87 @@
+Classes: Law enforcement, Civilian
+* Have individual bank account
+
+
+Civilian:
+===========================
+* Perform crimes
+* Do not spawn with weapons
+* Certain levels of criminals (innocent, wanted, highly wanted, most wanted)
+* Can bribe LE to lose wanted level
+
+
+Law Enforcement:
+==============================
+* Spawn with limited ammo of basic weapons
+* To arrest a criminal, have to drive them to the precint
+* Can only kill highly wanted/most wanted
+* Can choose whether to accept/deny bribe (if deny bribe, wanted level goes up)
+
+
+Weapons -> from weapon dealers and Gov't suppliers
+ Weap dealers can only sell "low tier" weapons, but at a "low" price
+ Govt suppliers can sell higher end weapons, but at a "high" price
+
+
+Weap dealer -> can either get supplies and build your own weapons "from scratch"
+               or can go to gov't supplier and buy a "premade" packet
+
+
+* Upon death, lose all weapons
+* Upon rejoin, keep weapons
+* If you leave next to a police station with some wanted level (some radius r away from it), then you rejoin at jail
+* 
+
+
+WEAPONS
+
+> Civilians "fresh spawn" with none, get to keep them if specific join conditions
+> Cops "fresh spawn" with limited ammo, get to keep them if specific join conditions
+> Can get "low tier" guns cheap from weap dealers, or "high tier" guns (expensive) from the gov't shop
+> Keep same weapon damage output
+> Weap dealers should be able to buy premade or build their own
+
+
+* Cops have their own tracker of "bribes accepted", start at 90/10 and drop by 20 per accepted bribe
+* Once flagged as "crooked cop", get a high wanted/most wanted level and other cops can arrest/kill you
+
+
+DRUGS
+> Selling/harvesting exclusive to drug dealer civilian skill
+> Can refill your hp at a given rate, but give you "drunk camera"
+> Taking them has a chance of giving you a wanted level
+> Can also purchase as a cop, but same risk of "crooked cop" flag, drop by 15 per drug purchase
+
+
+HOUSES
+> Both criminals and cops can own houses
+> Can lock/unlock houses, but if a wanted is inside, police can /breach
+> Can store money/drugs in your house, but other people can rob those
+> Interior can only be proportional to outside of house
+
+
+VEHICLES
+> Have some vehicles (lower end/high end according to area) spread out in city
+> Civilians can carjack with a chance of getting wanted
+> Cops can carjack at no risk
+> Civilians/cops can buy any private land vehicle regularly at a car shop
+> Civilians/cops need to purchase air/water licenses to buy personal air/water vehicles
+> Personal vehicles can be bought with insurance, if so, there's 3 cheap "respawns", then force to rebuy
+> If no insurance, automatically force to rebuy
+
+MONEY
+> Can store in bank, house, or hand
+> Can be robbed from all 3
+
+
+
+Miscellaneous
+==============================
+* Medic (can /heal players, but cannot have weapons)
+
+
+Both:
+===========================
+* Side jobs (driver, fishing, etc)
+* Sell vehicles for money
+* Buy vehicles
